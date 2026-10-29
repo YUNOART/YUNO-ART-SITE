@@ -35,7 +35,7 @@ We work with local businesses, schools, sports teams, churches and families acro
 
 No minimum order: start with one item, and get volume pricing from 6 pieces. Design online with our live preview tool or contact us for a quote.
 ```
-(≈ 690 caracteres)
+(665 caracteres)
 
 ## 4. Datos de contacto (iguales en la web, Google, Instagram y Facebook)
 
