@@ -16,11 +16,11 @@ Lista completa con temática por URL: [`sitemap.csv`](sitemap.csv).
 ```
 ninjatransfers.com
 ├── Transfers DTF personalizados (sube tu diseño, gang sheets)
-├── Diseños listos para planchar (3312 productos, ~70 colecciones temáticas)
+├── Diseños listos para planchar (3312 productos, 97 colecciones temáticas)
 ├── Ropa en blanco (3615 productos, por marca y por prenda)
 ├── Equipo e insumos (79 productos)
 ├── Herramientas de diseño gratis (estudio, mockups, IA, quitar fondo)
-├── Formación: Ninja University + 19 artículos + ~100 guías en /pages
+├── Formación: Ninja University + 19 artículos + 138 guías en /pages
 ├── Programas: puntos, referidos, mayoristas, becas, eventos
 ├── Landing local: /pages/texas (entrega al día siguiente en Texas)
 └── Soporte, cuenta de cliente y legal
