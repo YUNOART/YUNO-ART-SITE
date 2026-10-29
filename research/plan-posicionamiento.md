@@ -61,7 +61,7 @@ yuno-art.com
 ## 4. Hoja de ruta
 
 ### Mes 1: arreglar la base (quick wins)
-- [ ] Ocultar el producto interno y arreglar el duplicado `copy-of-…`.
+- [x] Ocultar el producto interno de buscadores (`seo.hidden`; sigue activo para la Creator App) y cambiar `copy-of-t-shirt-with-pocket-1` por `customize-your-t-shirt` con redirección 301. *(29-10-2026)*
 - [ ] Subir precio y "Add to cart" en la ficha móvil.
 - [ ] Meta description y og:image en la home y en las páginas clave.
 - [ ] Verificar GA4 y los píxeles de Meta y TikTok en *Configuración → Eventos de clientes*.
@@ -75,7 +75,7 @@ yuno-art.com
 - [ ] Landing "Custom Shirts & Embroidery in Katy, TX" (`/pages/katy-tx`), con negocios y escuelas de la zona como público: uniformes, spirit wear y equipos deportivos.
 
 ### Meses 3-6: contenido (el motor de Ninja)
-- [ ] **2 guías al mes** en el blog, cada una con enlaces a sus colecciones.
+- [ ] **2 guías al mes** en el blog, cada una con enlaces a sus colecciones. *(Octubre: 2 publicadas el 29-10-2026)*
 - [ ] Un vídeo corto por guía para TikTok e Instagram, con enlace a la guía.
 - [ ] Pedir reseñas con foto tras cada pedido; responder siempre en Google Business.
 
