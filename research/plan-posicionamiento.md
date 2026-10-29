@@ -28,7 +28,7 @@ Problemas de Yuno que hay que arreglar antes de crecer:
 
 Ninja gana por volumen: miles de productos y cientos de guías acumuladas durante años. Competir de frente por "DTF transfers" no es realista a corto plazo. Hay que ganar primero en lo que ellos no cubren bien:
 
-1. **Búsquedas locales:** "custom shirts near me", "DTF transfers [tu ciudad]", "embroidery [tu ciudad]". Una tienda pequeña con dirección real puede ganar ahí a una nacional.
+1. **Búsquedas locales en Katy y el oeste de Houston:** "custom shirts Katy TX", "embroidery Katy", "DTF transfers Katy", "custom shirts near me". Ninja ya ataca Texas con /pages/texas (entrega al día siguiente en todo el estado), pero no tiene dirección en Katy. Una tienda con dirección real, recogida en persona y reseñas en Google Maps les gana en las búsquedas "near me".
 2. **Producto terminado, no solo el transfer:** Ninja vende sobre todo transfers y prendas en blanco para que otros las personalicen. Yuno entrega la prenda ya terminada (bordado, grabado, sublimación). Eso apunta a otro cliente: empresas, familias y eventos.
 3. **Nichos con intención de compra:** uniformes por sector (restaurantes, construcción, clínicas), camisetas de cumpleaños, reuniones familiares, despedidas de soltera, equipos deportivos locales.
 
@@ -54,7 +54,7 @@ yuno-art.com
 │   ├── DTF vs bordado vs sublimación: cuál elegir
 │   ├── Cómo preparar tu logo para imprimir
 │   └── Guía de tallas y colocación del diseño
-├── [Tu ciudad]: landing local con dirección, mapa, recogida en tienda
+├── Katy, TX: landing local con dirección, mapa, zonas cercanas (Cinco Ranch, Fulshear, Brookshire, Cypress, oeste de Houston)
 └── Sobre nosotros · Reseñas · FAQ · Envíos y devoluciones · Contacto
 ```
 
@@ -72,7 +72,7 @@ yuno-art.com
 - [ ] Crear el menú nuevo (Shop · Ocasiones · Empresas · Aprende).
 - [ ] 6 colecciones de ocasión con texto propio (150-300 palabras cada una) y fotos reales.
 - [ ] Página de empresas con formulario de presupuesto y tabla de descuentos por cantidad.
-- [ ] Landing de tu ciudad.
+- [ ] Landing "Custom Shirts & Embroidery in Katy, TX" (`/pages/katy-tx`), con negocios y escuelas de la zona como público: uniformes, spirit wear y equipos deportivos.
 
 ### Meses 3-6: contenido (el motor de Ninja)
 - [ ] **2 guías al mes** en el blog, cada una con enlaces a sus colecciones.
@@ -83,7 +83,7 @@ yuno-art.com
 - [ ] Programa de puntos y de referidos (Ninja tiene los dos).
 - [ ] Versión en español de la web si tu clientela lo pide (Ninja ya tiene `/es`).
 - [ ] Catálogo de diseños listos para planchar por temática.
-- [ ] Segunda y tercera landing local si atiendes otras ciudades.
+- [ ] Más landings locales: Houston, Cypress, Fulshear, Sugar Land.
 
 ## 5. Organización del equipo (semanal)
 
