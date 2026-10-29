@@ -2,13 +2,28 @@
 
 Para Yuno Art, Katy, TX. Todo el texto de cara al cliente va en inglés, como la web. Edita la ficha en business.google.com o buscando "Yuno Art" en Google con tu cuenta iniciada, y pulsa **Edit profile**.
 
-> Pendiente: revisar la ficha actual. Envíame capturas de cada sección (o el enlace de Maps) y comparo lo que tienes con esta propuesta.
+## Estado actual de la ficha (revisada el 29-10-2026)
+
+| Elemento | Hoy | Valoración |
+|---|---|---|
+| Nombre | `YUNO -ART` | ⚠️ El espacio antes del guion parece un error. En la web aparece como "Yuno-Art" y "YUNO ART". Hay que usar el mismo nombre en todas partes. |
+| Categoría principal | Custom t-shirt store | ✅ Correcta |
+| Dirección | 1926 Charlton House Ln, Katy, TX 77493 | ⚠️ Es una calle residencial. Si no recibes clientes ahí, Google exige ocultarla y usar área de servicio. |
+| Teléfono | +1 346-373-8577 | ✅ Falta ponerlo en la web |
+| Horario | Abierto, cierra a las 5 PM | ✅ Revisar los festivos |
+| Sitio web | Enlazado | Cambiar a `/pages/katy-tx` cuando se publique |
+| Reseñas | No aparece ninguna valoración | ❌ La prioridad número 1 |
+| Foto de portada | Taza "Today looks bright" con aspecto de mockup | ⚠️ Sustituir por un trabajo real |
+| Otras fotos | Un collage de varias fotos con el logo | ⚠️ Subirlas por separado: Google y los clientes ven mejor fotos individuales |
+| Descripción, servicios, productos, Q&A | No se pudieron ver (Google bloquea esa parte desde servidores) | Usar el contenido de este documento |
 
 ---
 
 ## 1. Nombre del negocio
 
-`Yuno Art`
+Hoy: `YUNO -ART`. Propuesta: elegir **una** forma y usarla en la ficha, la web, el logo, Instagram y las facturas. Sugerencia: `Yuno Art`, la más fácil de buscar y escribir.
+
+Cambiar el nombre puede hacer que Google vuelva a verificar la ficha; es normal.
 
 Pon solo el nombre real. **No añadas palabras clave** como "Yuno Art – Custom Shirts Katy": Google lo prohíbe y puede suspender la ficha.
 
