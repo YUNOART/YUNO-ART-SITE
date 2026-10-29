@@ -116,46 +116,55 @@ async function purchaseFlow(context) {
   const step = (name, ok, detail) => flow.steps.push({ name, ok, detail });
   const page = await context.newPage();
 
-  // 1. Encontrar un producto
-  let productUrl = null;
+  // 1. Buscar productos candidatos
+  let candidates = [];
   if (report.platform === 'shopify') {
     try {
-      const r = await page.request.get(`${BASE}/products.json?limit=50`);
-      const prods = (await r.json()).products || [];
-      const available = prods.find((p) => p.variants.some((v) => v.available));
-      if (available) productUrl = `${BASE}/products/${available.handle}`;
-      step('Catálogo (products.json)', prods.length > 0, `${prods.length} productos, ${prods.filter((p) => p.variants.some((v) => v.available)).length} disponibles`);
+      // fetch desde la página para que pase por el mismo proxy que el navegador
+      await page.goto(BASE, { waitUntil: 'domcontentloaded' });
+      const prods = await page.evaluate(() => fetch('/products.json?limit=250').then((r) => r.json()).then((j) => j.products || []));
+      const available = prods.filter((p) => p.variants.some((v) => v.available));
+      candidates = available.map((p) => `${BASE}/products/${p.handle}`);
+      step('Catálogo (products.json)', prods.length > 0, `${prods.length} productos, ${available.length} disponibles`);
     } catch (e) { step('Catálogo (products.json)', false, e.message); }
   }
-  if (!productUrl) {
-    const candidates = report.pages.flatMap((p) => p.links)
-      .filter((l) => l.startsWith(BASE) && /\/(products?|producto|tienda\/|shop\/|obra|artwork)/i.test(l));
-    productUrl = candidates[0] || null;
+  if (!candidates.length) {
+    candidates = [...new Set(report.pages.flatMap((p) => p.links)
+      .filter((l) => l.startsWith(BASE) && /\/(products?|producto|tienda\/|shop\/|obra|artwork)/i.test(l)))];
   }
-  if (!productUrl) { step('Encontrar producto', false, 'No se encontró ninguna ficha de producto'); return; }
-  step('Encontrar producto', true, productUrl);
+  if (!candidates.length) { step('Encontrar producto', false, 'No se encontró ninguna ficha de producto'); return; }
 
-  // 2. Ficha de producto
-  await page.goto(productUrl, { waitUntil: 'load', timeout: 45000 });
-  await page.screenshot({ path: path.join(OUT, 'screens', 'producto.png'), fullPage: true });
-  const price = await page.evaluate(() => {
-    const m = document.body.innerText.match(/(\d[\d.,]*\s?€|€\s?\d[\d.,]*|\$\s?\d[\d.,]*)/);
-    return m ? m[0] : null;
-  });
-  step('Precio visible en ficha', !!price, price || 'sin precio detectado');
-
-  // 3. Añadir al carrito
-  const addBtn = page.locator([
+  // 2-3. Probar fichas hasta encontrar una que se pueda añadir al carrito sin personalizar.
+  // Las que exigen subir un diseño se anotan aparte: puede ser intencionado o un error.
+  const addSelector = [
     'button[name="add"]', 'form[action*="/cart/add"] [type="submit"]',
     'button.single_add_to_cart_button',
     'button:has-text("Añadir al carrito")', 'button:has-text("Agregar al carrito")',
     'button:has-text("Add to cart")', 'button:has-text("Comprar")',
-  ].join(', ')).first();
-  if (!(await addBtn.count())) { step('Botón añadir al carrito', false, 'No encontrado'); return; }
-  if (await addBtn.isDisabled()) { step('Botón añadir al carrito', false, 'Deshabilitado (¿agotado?)'); return; }
-  await addBtn.click();
-  await page.waitForTimeout(3000);
-  step('Botón añadir al carrito', true, 'Pulsado');
+  ].join(', ');
+  flow.blocked = [];
+  let added = false;
+  for (const url of candidates.slice(0, 6)) {
+    await page.goto(url, { waitUntil: 'load', timeout: 45000 });
+    await page.waitForTimeout(1500);
+    const price = await page.evaluate(() => {
+      const m = document.body.innerText.match(/(\d[\d.,]*\s?€|€\s?\d[\d.,]*|\$\s?\d[\d.,]*)/);
+      return m ? m[0] : null;
+    });
+    if (!price) issue('alta', 'compras', 'Ficha sin precio visible', url);
+    const addBtn = page.locator(addSelector).filter({ visible: true }).first();
+    if (!(await addBtn.count())) { flow.blocked.push({ url, reason: 'sin botón de compra' }); continue; }
+    if (await addBtn.isDisabled()) { flow.blocked.push({ url, reason: 'botón deshabilitado (¿exige subir diseño o está agotado?)' }); continue; }
+    await page.screenshot({ path: path.join(OUT, 'screens', 'producto.png'), fullPage: true });
+    step('Ficha de producto con precio', !!price, `${url} · ${price || 'sin precio'}`);
+    await addBtn.click();
+    await page.waitForTimeout(3000);
+    step('Botón añadir al carrito', true, 'Pulsado');
+    added = true;
+    break;
+  }
+  for (const b of flow.blocked) issue('media', 'compras', `No se puede añadir al carrito directamente: ${b.reason}`, b.url);
+  if (!added) { step('Botón añadir al carrito', false, `Ninguno de ${Math.min(6, candidates.length)} productos probados se pudo añadir`); return; }
 
   // 4. Carrito
   const cartPath = report.platform === 'woocommerce' ? '/carrito' : '/cart';
@@ -244,8 +253,11 @@ async function purchaseFlow(context) {
   const s = {};
   for (const p of report.pages) for (const [k, v] of Object.entries(p.signals)) s[k] = s[k] || v;
   report.marketing = s;
-  if (!s.googleAnalytics && !s.googleTagManager) issue('alta', 'marketing', 'No se detecta Google Analytics/GTM: no se puede medir conversión');
-  if (!s.metaPixel) issue('media', 'marketing', 'No se detecta el píxel de Meta (Instagram/Facebook Ads)');
+  // Shopify carga los píxeles de apps (Google, Meta) en un sandbox que no aparece en el HTML
+  const sandboxed = report.platform === 'shopify';
+  const verify = sandboxed ? ' (verificar en Shopify > Configuración > Eventos de clientes)' : '';
+  if (!s.googleAnalytics && !s.googleTagManager) issue(sandboxed ? 'media' : 'alta', 'marketing', 'No se detecta Google Analytics/GTM' + verify);
+  if (!s.metaPixel) issue('media', 'marketing', 'No se detecta el píxel de Meta (Instagram/Facebook Ads)' + verify);
   if (!s.newsletter) issue('alta', 'marketing', 'No hay captación de email (newsletter)');
   if (!s.reviews) issue('media', 'marketing', 'No hay reseñas ni prueba social visible');
   if (!s.shippingInfo) issue('media', 'marketing', 'No se menciona información de envío');

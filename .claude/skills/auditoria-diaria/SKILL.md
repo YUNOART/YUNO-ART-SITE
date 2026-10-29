@@ -7,6 +7,8 @@ description: Auditoría diaria de yuno-art.com centrada en marketing y conversi�
 
 Objetivo: que cada día la tienda **venda sin fallos** y que el equipo reciba una lista corta de mejoras de marketing con impacto en ventas. Escribe el informe en español.
 
+Contexto del negocio: tienda Shopify en inglés y en USD. Vende ropa y regalos personalizados (camisetas, gorras, polos, tazas, vasos térmicos, tarjetas grabadas, transfers DTF, uniformes de empresa) con un personalizador en la ficha de producto para subir el diseño. Los clientes son particulares (regalos, cumpleaños) y empresas (uniformes, logos). Redes: Instagram @yunoart26, TikTok @yunoart25.
+
 ## Reglas de seguridad
 
 - **Nunca completes un pago ni envíes un pedido.** El flujo de compra se prueba solo hasta que carga el checkout; no rellenes datos personales ni de tarjeta.
@@ -25,11 +27,11 @@ Genera `audits/AAAA-MM-DD/report.json` y capturas en `audits/AAAA-MM-DD/screens/
 
 Abre cada captura con la herramienta Read y evalúa lo que un script no ve:
 
-- **Primera impresión (home):** ¿se entiende en 3 segundos qué es Yuno Art y qué vende? ¿Hay un llamado a la acción claro encima del pliegue?
-- **Fotografía de las obras:** calidad, consistencia de fondos y encuadres, obra en contexto (en una pared o un salón).
-- **Ficha de producto:** precio, medidas, técnica, plazo de envío, botón de compra visible sin hacer scroll en móvil, reseñas y garantía cerca del botón.
+- **Primera impresión (home):** ¿se entiende en 3 segundos qué vende Yuno Art? ¿Hay un llamado a la acción claro encima del pliegue? La home en móvil es muy larga (unas 45 pantallas): vigila que no crezca más.
+- **Fotografía:** trabajos reales de clientes (prueba social), fondos consistentes, producto puesto o en uso.
+- **Ficha de producto:** el precio y el botón "Add to cart" deben verse pronto en móvil. Al 29-10-2026 aparecían a unas 4 pantallas de scroll, debajo del personalizador. Comprueba también el plazo de producción y envío, el pedido mínimo para empresas y las reseñas cerca del botón.
 - **Móvil:** texto legible, botones grandes, nada cortado.
-- **Checkout:** métodos de pago visibles (Bizum, PayPal, Apple Pay ayudan en España), coste de envío claro antes de pagar.
+- **Checkout:** métodos de pago visibles (Shop Pay, Apple Pay, Google Pay, PayPal), coste de envío claro antes de pagar.
 
 ## 3. Comparar con el día anterior
 
@@ -59,15 +61,15 @@ Guárdalo como `audits/AAAA-MM-DD/informe.md` con esta estructura:
 (analytics, píxel de Meta, newsletter, reseñas, envíos, devoluciones, cookies, redes)
 ```
 
-Prioriza siempre por **impacto en ventas ÷ esfuerzo**. Algunas palancas de marketing para una tienda de arte:
+Prioriza siempre por **impacto en ventas ÷ esfuerzo**. Algunas palancas de marketing para una tienda de personalización:
 
-- Captación de email con incentivo (descuento en la primera compra o acceso anticipado a nuevas obras) y secuencia de bienvenida.
-- Prueba social: reseñas con fotos de clientes con la obra colgada, prensa, exposiciones.
-- Urgencia y escasez honestas: "obra única", "edición limitada de 50", stock real.
-- Historia de la artista o el artista y del proceso (vídeo corto), que justifica el precio.
-- Medición: GA4 con eventos de ecommerce (`view_item`, `add_to_cart`, `begin_checkout`, `purchase`), píxel de Meta y API de conversiones, UTM en campañas.
-- SEO: datos estructurados `Product` con precio y disponibilidad, títulos con técnica y estilo, `og:image` atractiva para compartir por Instagram y WhatsApp.
-- Recuperación de carritos abandonados y envío gratis a partir de un importe.
+- Captación de email con incentivo (10 % en el primer pedido) y secuencia de bienvenida; recordatorios para fechas clave (Navidad, Día de la Madre, graduaciones).
+- Prueba social: reseñas con fotos de clientes, logos de empresas que ya compraron uniformes.
+- Página o formulario de presupuesto para empresas (pedidos por volumen, descuentos por cantidad visibles).
+- Plazos claros: "Order by X for delivery by Y" en temporada de regalos.
+- Medición: GA4 con eventos de ecommerce (`view_item`, `add_to_cart`, `begin_checkout`, `purchase`), píxel de Meta y de TikTok con API de conversiones, UTM en campañas.
+- SEO: datos estructurados `Product` con precio y disponibilidad, meta description en todas las páginas, `og:image` atractiva para compartir.
+- Recuperación de carritos abandonados (sobre todo de quien subió un diseño y no compró) y envío gratis a partir de un importe.
 
 ## 5. Avisar
 
