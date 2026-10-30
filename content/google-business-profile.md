@@ -32,7 +32,6 @@ Pon solo el nombre real. **No añadas palabras clave** como "Yuno Art – Custom
 | | Categoría |
 |---|---|
 | **Principal** | Custom t-shirt store |
-| Secundaria | Embroidery service |
 | Secundaria | Engraver |
 | Secundaria | Promotional products supplier |
 | Secundaria | Uniform store |
@@ -44,13 +43,13 @@ Escribe los nombres en el buscador de categorías; si alguno no aparece exactame
 ## 3. Descripción (máx. 750 caracteres, sin enlaces)
 
 ```
-Yuno Art is a custom apparel and gift shop in Katy, Texas. We put your logo, artwork or idea on t-shirts, hoodies, polos, caps, safety vests, mugs, tumblers and metal business cards using DTF printing, embroidery, sublimation and laser engraving.
+Yuno Art is a custom apparel and gift shop in Katy, Texas. We put your logo, artwork or idea on t-shirts, hoodies, polos, caps, safety vests, mugs, tumblers and metal business cards using DTF printing, sublimation and laser engraving.
 
 We work with local businesses, schools, sports teams, churches and families across Katy, Cinco Ranch, Fulshear, Cypress and West Houston: work uniforms with your company logo, team and spirit wear, event shirts, birthday and family reunion shirts, and personalized gifts.
 
 No minimum order: start with one item, and get volume pricing from 6 pieces. Design online with our live preview tool or contact us for a quote.
 ```
-(665 caracteres)
+(653 caracteres)
 
 ## 4. Datos de contacto (iguales en la web, Google, Instagram y Facebook)
 
@@ -69,18 +68,17 @@ Usa los precios de la tienda tal como están hoy; actualízalos aquí si cambian
 |---|---|---|
 | Custom T-Shirts | Heavyweight cotton tee with your design, one color included | From $11 |
 | Custom Hoodies | Gildan 18500 hoodie, one print location included | From $29.99 |
-| Embroidered Polos | Gildan 8800 polo with embroidered chest logo; optional DTF on the back | From $20 |
+| Custom Polos | Pique polo with your logo printed in full color (DTF) | From $24.99 |
 | Custom Caps | Twill or six-panel caps with your logo | From $7 + personalization |
 | Work Uniforms & Safety Wear | Reflective vests and safety-color long sleeves with your company logo | From $14.99 |
 | Custom Mugs | 11 oz or 15 oz ceramic mugs, full-color sublimation | From $11.99 |
 | Custom Tumblers | 20 or 30 oz insulated tumblers, engraved or full-color | From $21.99 |
 | Laser-Engraved Metal Business Cards | Aluminum cards, packs of 25, 50 or 100 | From $19.99 |
 | Custom DTF Transfers | Ready-to-press full-color transfers by size and quantity | Price varies |
-| Logo Digitizing for Embroidery | One-time setup per new logo | $25 |
 
 ## 6. Productos (sección "Products")
 
-Sube 6-10 productos con **foto real** (trabajos hechos, no mockups), nombre, precio y el botón "Order online" con enlace a la ficha de la web. Empieza por los más vendidos y los de empresas: polo bordado, chaleco reflectante, camiseta, gorra, vaso, tarjetas de metal.
+Sube 6-10 productos con **foto real** (trabajos hechos, no mockups), nombre, precio y el botón "Order online" con enlace a la ficha de la web. Empieza por los más vendidos y los de empresas: chaleco reflectante, polo, camiseta, gorra, vaso, tarjetas de metal. **No subas productos de bordado mientras esté en pausa.**
 
 ## 7. Atributos
 
@@ -91,7 +89,7 @@ Marca los que sean ciertos: *Online appointments*, *Onsite services* (si lo das)
 - [ ] Logo (cuadrado, **con fondo transparente o blanco limpio**; el de la web tiene un fondo gris)
 - [ ] Portada: el mejor trabajo terminado, bien iluminado
 - [ ] 10-20 fotos de trabajos reales: uniformes de clientes, camisetas de eventos, tazas, vasos, tarjetas
-- [ ] El taller y las máquinas (prensa, bordadora, láser): genera confianza
+- [ ] El taller y las máquinas (prensa, láser): genera confianza
 - [ ] El equipo trabajando
 - [ ] Fachada o entrada, si recibes clientes
 - [ ] **Subir 2-3 fotos nuevas cada semana**
@@ -101,7 +99,7 @@ Marca los que sean ciertos: *Online appointments*, *Onsite services* (si lo das)
 Publícalas tú desde la ficha y respóndelas:
 
 1. **Is there a minimum order?** No. You can order a single item. Volume pricing starts at 6 pieces of the same product.
-2. **Do you embroider company logos?** Yes, on polos, caps and jackets. New logos have a one-time $25 digitizing fee and are reused on every reorder.
+2. **Can you put our company logo on uniforms?** Yes. We print it in full color on polos, caps, work shirts and safety vests. Businesses get 10% off their first order of 6+ pieces with code KATYBIZ10.
 3. **What file should I send?** SVG or PDF is best, or a PNG with a transparent background. If you only have a photo of your logo, message us.
 4. **Do you ship outside Katy?** Yes, we ship custom orders across the United States.
 
@@ -109,7 +107,7 @@ Publícalas tú desde la ficha y respóndelas:
 
 | Semana | Tipo | Texto | Botón |
 |---|---|---|---|
-| 1 | Novedad | "Work uniforms for Katy businesses: embroidered polos, safety vests and shirts with your logo. Volume pricing from 6 pieces." | Get quote → /pages/contact |
+| 1 | Novedad | "Work uniforms for Katy businesses: polos, safety vests and shirts with your logo. 10% off your first order of 6+ with code KATYBIZ10." | Get quote → /pages/contact |
 | 2 | Producto | "Holiday gifts made in Katy: custom mugs, engraved tumblers and photo shirts." | Order online → /collections/all |
 | 3 | Guía | "DTF, embroidery, sublimation or engraving? Our guide helps you choose." | Learn more → guía 1 |
 | 4 | Trabajo de cliente | Foto de un pedido real + "Custom shirts for [cliente/evento] in Katy" (con su permiso) | Order online |
@@ -124,7 +122,7 @@ Hi [Name]! Thank you for your order with Yuno Art 🙌
 If you're happy with your [shirts/mugs/caps], would you leave us a quick Google review? It really helps a small Katy business like ours: [REVIEW LINK]
 ```
 
-- [ ] Responde **todas** las reseñas en 48 h, mencionando de forma natural el producto y Katy ("Thanks Maria! We loved making your team's embroidered polos here in Katy.").
+- [ ] Responde **todas** las reseñas en 48 h, mencionando de forma natural el producto y Katy ("Thanks Maria! We loved making your team's polos here in Katy.").
 - [ ] Nunca ofrezcas descuentos a cambio de reseñas: va contra las normas de Google.
 - [ ] Meta: 30 reseñas en 6 meses y 100 en 12.
 

@@ -4,7 +4,8 @@ Los mensajes para clientes van en inglés. Hay versión en español para negocio
 
 Antes de usarlos:
 - Cambia `[Your name]` por tu nombre.
-- **La oferta de lanzamiento** de estos mensajes es: **digitalización del logo gratis (ahorran $25) + mockup gratis**, en el primer pedido de 6 o más prendas. Si eliges otra oferta, cámbiala en todos los mensajes.
+- **La oferta de lanzamiento** es **10 % de descuento en el primer pedido de 6 o más prendas con el código `KATYBIZ10`, más un mockup gratis**. El código ya está activo en Shopify: se usa una vez por cliente y se suma a los descuentos por volumen, salvo en el Polyester Long Sleeve, donde se aplica el mejor de los dos.
+- **El bordado está en pausa:** no ofrezcas polos ni gorras bordados. Todo se hace con DTF (logo impreso a todo color).
 - No prometas plazos de entrega hasta tener uno fijo.
 
 ---
@@ -34,11 +35,11 @@ Hi [Company] team,
 I'm [Your name] from Yuno Art, a custom apparel shop here in Katy. I put together a quick mockup of what your crew could look like in branded polos – it's attached.
 
 We make work uniforms for local businesses:
-• Embroidered polos and caps with your logo
-• Safety vests and performance shirts with your logo printed
+• Polos, caps and work shirts with your logo in full color
+• Safety vests and performance shirts in high-visibility colors
 • Logo on the chest, website or phone number on the back
 
-For Katy businesses this month: we digitize your logo for free (normally $25) on your first order of 6+ pieces, and volume pricing applies automatically – the price per shirt goes down at 6 and again at 12.
+For Katy businesses this month: 10% off your first order of 6+ pieces with code KATYBIZ10, on top of our volume pricing – the price per shirt already goes down at 6 and again at 12.
 
 Would you like me to send a quote for your team? Just reply with how many people you have and I'll put it together.
 
@@ -72,8 +73,8 @@ If it helps, I can also send a mockup with your logo on a safety vest or a cap. 
 Hi, my name is [Your name], I run Yuno Art, a custom apparel shop here in Katy.
 I made a quick mockup of your logo on a work polo – can I show you? [show phone]
 
-We do embroidered polos, caps and safety vests for local crews. This month we're
-digitizing logos for free for Katy businesses on orders of 6 or more.
+We do polos, caps, work shirts and safety vests with your logo for local crews.
+This month Katy businesses get 10% off their first order of 6 or more.
 
 Who's the best person to talk to about uniforms? Can I send them the mockup and a quote?
 ```
@@ -96,17 +97,17 @@ Hi! I'm [Your name] from Yuno Art here in Katy. I made a quick mockup of your lo
 ## 5. Tu cliente actual (el de los chalecos y los polos)
 
 ```
-Hi [Name]! Thank you again for your orders – the vests and the embroidered polos. We really appreciate the trust.
+Hi [Name]! Thank you again for your orders with Yuno Art – we really appreciate the trust.
 
 Two quick favors, only if you're happy with the work:
 1. Would you leave us a short Google review? It helps a small Katy business a lot: [REVIEW LINK]
-2. If you know another business that needs uniforms, send them our way – we'll give them 10% off their first order, and you'll get 10% off your next one.
+2. If you know another business that needs uniforms, send them our way – they get 10% off their first order of 6+ pieces with code KATYBIZ10. And as a thank-you, you can use the same code on your next order.
 
 Thanks so much!
 [Your name] – Yuno Art
 ```
 
-Antes de enviarlo, crea el código de descuento del 10 %, o pídemelo y lo creo yo en Shopify.
+**Envíalo cuando le entregues los polos del pedido #1003**, no antes: pedir una reseña con un pedido pendiente da mala impresión.
 
 ---
 
@@ -118,11 +119,11 @@ Muchos grupos solo permiten promociones ciertos días: lee las normas de cada gr
 Katy business owners 👋 Need uniforms for your crew?
 
 I'm [Your name], owner of Yuno Art, a small custom apparel shop here in Katy. We make:
-✔️ Embroidered polos & caps with your logo
-✔️ Safety vests & work shirts
+✔️ Polos, caps & work shirts with your logo in full color
+✔️ Safety vests & high-visibility shirts
 ✔️ Custom mugs and engraved tumblers (great holiday gifts for clients & employees!)
 
-This month for local businesses: FREE logo digitizing on your first order of 6+ pieces, plus a free mockup of your logo before you order.
+This month for local businesses: 10% OFF your first order of 6+ pieces (code KATYBIZ10), plus a free mockup of your logo before you order.
 
 No minimums for individuals – one shirt is fine too.
 📞 (346) 373-8577 · 🌐 yuno-art.com
@@ -162,9 +163,9 @@ Hola, equipo de [Empresa]:
 
 Soy [Tu nombre], de Yuno Art, un taller de ropa personalizada aquí en Katy. Les preparé un ejemplo de cómo se vería su logo en los polos de su equipo; va adjunto.
 
-Hacemos uniformes para negocios locales: polos y gorras bordados, chalecos de seguridad y camisas de trabajo con su logo.
+Hacemos uniformes para negocios locales: polos, gorras, chalecos de seguridad y camisas de trabajo con su logo a todo color.
 
-Este mes, para negocios de Katy, la digitalización del logo es gratis (normalmente $25) en el primer pedido de 6 prendas o más, y el precio por prenda baja automáticamente a partir de 6 y de 12.
+Este mes, para negocios de Katy, hay un 10 % de descuento en el primer pedido de 6 prendas o más con el código KATYBIZ10, además del precio por volumen, que ya baja a partir de 6 y de 12 prendas.
 
 ¿Les envío una cotización? Solo díganme cuántas personas tiene su equipo.
 
@@ -174,13 +175,13 @@ Yuno Art – Katy, TX · (346) 373-8577 · yuno-art.com
 ```
 
 **Presentación de 20 segundos para eventos de networking:**
-> "Soy [Tu nombre], de Yuno Art, aquí en Katy. Hacemos uniformes y regalos con el logo de tu negocio: polos bordados, gorras, chalecos y vasos grabados. Si me das tu tarjeta, te mando gratis un ejemplo con tu logo."
+> "Soy [Tu nombre], de Yuno Art, aquí en Katy. Hacemos uniformes y regalos con el logo de tu negocio: polos, gorras, chalecos y vasos grabados. Si me das tu tarjeta, te mando gratis un ejemplo con tu logo."
 
 ---
 
 ## Eventos de networking en Katy (Cámara de Comercio)
 
-Lleva a los eventos **tarjetas, una gorra o un polo bordado puesto, y el móvil con 5 mockups** hechos. Próximos eventos publicados en el calendario de la Cámara (fechas y registro en katychamber.com):
+Lleva a los eventos **tarjetas, una gorra o un polo con tu logo puesto, y el móvil con 5 mockups** hechos. Próximos eventos publicados en el calendario de la Cámara (fechas y registro en katychamber.com):
 
 - **Conexion Katy – November y December**: networking de negocios hispanos. **Prioridad.**
 - **Lunch Bunch** (Andretti, Mia's Table, Snappy's, Rustika Cafe, Crafted Kitchen and Taps)
