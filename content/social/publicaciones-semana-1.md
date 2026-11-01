@@ -61,7 +61,9 @@ New at Yuno Art: NFC business cards with your logo. Tap the card on any phone an
 
 Your logo on your team. 👕
 
-Polos, t-shirts, caps and safety vests with your logo, made right here in Katy. Uniformed crews look more professional, and customers remember the name.
+Polos, t-shirts, caps, hoodies and safety vests with your logo, made right here in Katy. Uniformed crews look more professional, and customers remember the name.
+
+🆕 New for the cold mornings: crewneck sweatshirts, full-zip hoodies and quarter-zips. And for restaurants, coffee shops and salons: aprons with your logo.
 
 ✔️ No minimum order
 ✔️ Volume pricing from 6 and 12 pieces
@@ -69,19 +71,19 @@ Polos, t-shirts, caps and safety vests with your logo, made right here in Katy. 
 ✔️ Ready in 3–5 business days, local pickup
 
 Send us your logo and we'll make you a free mockup.
-yuno-art.com/pages/katy-tx
+yuno-art.com/collections/uniforms-workwear
 
-#KatyTX #KatyBusiness #CustomUniforms #CustomApparel #DTFPrinting #SmallBusinessKaty #CincoRanch #Fulshear #Brookshire
+#KatyTX #KatyBusiness #CustomUniforms #CustomApparel #Workwear #DTFPrinting #SmallBusinessKaty #CincoRanch #Fulshear #Brookshire
 
 **Grupos de Facebook y Nextdoor** (más personal, sin hashtags; publícalo donde se permita promoción, por ejemplo en los hilos de "small business" de los fines de semana):
 
 Hi neighbors! 👋 I'm Obel, owner of Yuno Art, a small custom printing shop here in Katy (off Charlton House Ln).
 
-We make polos, t-shirts, caps and safety vests with your company logo, plus branded gifts like engraved tumblers, light-up logo pens and NFC business cards.
+We make polos, t-shirts, caps, hoodies, quarter-zips, aprons and safety vests with your company logo, plus branded gifts like engraved tumblers, light-up logo pens and NFC business cards.
 
-If you run a local business (landscaping, cleaning, roofing, HVAC, real estate...), send me your logo and I'll make you a free mockup, no commitment. Katy businesses get 10% off their first order of 6+ pieces with code KATYBIZ10.
+If you run a local business (landscaping, cleaning, roofing, HVAC, restaurants, real estate...), send me your logo and I'll make you a free mockup, no commitment. Katy businesses get 10% off their first order of 6+ pieces with code KATYBIZ10.
 
-yuno-art.com/pages/katy-tx · (346) 373-8577
+yuno-art.com/collections/uniforms-workwear · (346) 373-8577
 
 Thank you for supporting local! 🙏
 
