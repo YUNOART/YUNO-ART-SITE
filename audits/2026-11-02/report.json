@@ -1,0 +1,2169 @@
+{
+  "url": "https://yuno-art.com",
+  "date": "2026-11-02T14:27:15.247Z",
+  "platform": "shopify",
+  "pages": [
+    {
+      "url": "https://yuno-art.com/",
+      "status": 200,
+      "loadMs": 3377,
+      "consoleErrors": [
+        "Framing 'https://shop.app/' violates the following Content Security Policy directive: \"frame-ancestors 'self' https://shop.app https://admin.shopify.com\". The request has been blocked.\n",
+        "Failed to load resource: the server responded with a status of 403 ()"
+      ],
+      "failedRequests": [
+        "https://shop.app/pay/hop?analytics_trace_id=6aaec653-4431-40e5-9f87-eb423ebc326c&target_origin=https%3A%2F%2Fyuno-art.com&client_handle=ibuxqe-3u.myshopify.com",
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/shopify_pay/accelerated_checkout",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=95cad698-644c-4882-a984-ac786e45ccd7&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": true,
+        "shippingInfo": false,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Custom T-Shirts, Uniforms & Gifts in Katy, TX | Yuno Art – Yuno-Art",
+      "description": "Custom t-shirts, polos, caps, safety vests, mugs and engraved tumblers made in Katy, Texas. Upload your logo, preview it live and order online. No minimum order.",
+      "canonical": "https://yuno-art.com/",
+      "lang": "en",
+      "h1": [
+        "",
+        "Your ideas.\nCustom made."
+      ],
+      "og": {
+        "title": "Custom T-Shirts, Uniforms & Gifts in Katy, TX | Yuno Art",
+        "description": "Custom t-shirts, polos, caps, safety vests, mugs and engraved tumblers made in Katy, Texas. Upload your logo, preview it live and order online. No minimum order.",
+        "image": "http://yuno-art.com/cdn/shop/files/yuno-share-image.jpg?v=1793454765&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization",
+        "WebSite"
+      ],
+      "imagesTotal": 19,
+      "brokenImages": [
+        ""
+      ],
+      "imagesWithoutAlt": 1
+    },
+    {
+      "url": "https://yuno-art.com/collections/uniforms-workwear",
+      "status": 200,
+      "loadMs": 1766,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=278e67b9-5058-4cad-93dd-716cbf999704&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": false,
+        "shippingInfo": false,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Custom Work Uniforms & Workwear with Logo in Katy, TX | Yuno Art – Yuno-Art",
+      "description": "Custom work uniforms in Katy, TX: polos, tees, hoodies, quarter-zips, safety vests, aprons and caps with your logo. No minimum, free mockup.",
+      "canonical": "https://yuno-art.com/collections/uniforms-workwear",
+      "lang": "en",
+      "h1": [
+        "Collection:\nUniforms & Workwear"
+      ],
+      "og": {
+        "title": "Custom Work Uniforms & Workwear with Logo in Katy, TX | Yuno Art",
+        "description": "Custom work uniforms in Katy, TX: polos, tees, hoodies, quarter-zips, safety vests, aprons and caps with your logo. No minimum, free mockup.",
+        "image": "http://yuno-art.com/cdn/shop/files/yuno-share-image.jpg?v=1793454765&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization"
+      ],
+      "imagesTotal": 14,
+      "brokenImages": [],
+      "imagesWithoutAlt": 0
+    },
+    {
+      "url": "https://yuno-art.com/pages/katy-tx",
+      "status": 200,
+      "loadMs": 624,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=fbe6d94e-d297-4295-a4e6-97869b2afc8f&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt",
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": true,
+        "shippingInfo": false,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Custom Shirts & Uniforms in Katy, TX – Yuno-Art",
+      "description": "Custom t-shirts, polos, caps, work uniforms, mugs and engraved tumblers made in Katy, Texas. Upload your logo online or contact us for a quote.",
+      "canonical": "https://yuno-art.com/pages/katy-tx",
+      "lang": "en",
+      "h1": [
+        "Custom Shirts, Uniforms & Gifts in Katy, TX"
+      ],
+      "og": {
+        "title": "Custom Shirts & Uniforms in Katy, TX",
+        "description": "Custom t-shirts, polos, caps, work uniforms, mugs and engraved tumblers made in Katy, Texas. Upload your logo online or contact us for a quote.",
+        "image": "http://yuno-art.com/cdn/shop/files/yuno-share-image.jpg?v=1793454765&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization",
+        "LocalBusiness",
+        "FAQPage"
+      ],
+      "imagesTotal": 1,
+      "brokenImages": [],
+      "imagesWithoutAlt": 0
+    },
+    {
+      "url": "https://yuno-art.com/blogs/news",
+      "status": 200,
+      "loadMs": 639,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=edba3c87-51a3-4cee-8a8e-c8f3de17f2b9&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": false,
+        "shippingInfo": false,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Custom Printing Guides & Ideas | Yuno Art Katy, TX – Yuno-Art",
+      "description": "Guides from Yuno Art in Katy, TX: choosing DTF, sublimation or laser engraving, preparing your logo for printing and branded gift ideas.",
+      "canonical": "https://yuno-art.com/blogs/news",
+      "lang": "en",
+      "h1": [
+        "News"
+      ],
+      "og": {
+        "title": "Custom Printing Guides & Ideas | Yuno Art Katy, TX",
+        "description": "Guides from Yuno Art in Katy, TX: choosing DTF, sublimation or laser engraving, preparing your logo for printing and branded gift ideas.",
+        "image": "http://yuno-art.com/cdn/shop/files/yuno-share-image.jpg?v=1793454765&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization"
+      ],
+      "imagesTotal": 1,
+      "brokenImages": [],
+      "imagesWithoutAlt": 0
+    },
+    {
+      "url": "https://yuno-art.com/pages/contact",
+      "status": 200,
+      "loadMs": 650,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=7ef7d18f-7e0b-4795-ad21-cbc2c32d7646&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt",
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": false,
+        "shippingInfo": false,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Contact Yuno Art | Custom Printing in Katy, TX – Yuno-Art",
+      "description": "Contact Yuno Art in Katy, TX for a free mockup or a quote on custom shirts, uniforms, NFC cards and engraved gifts. Call (346) 373-8577.",
+      "canonical": "https://yuno-art.com/pages/contact",
+      "lang": "en",
+      "h1": [
+        "Contact"
+      ],
+      "og": {
+        "title": "Contact Yuno Art | Custom Printing in Katy, TX",
+        "description": "Contact Yuno Art in Katy, TX for a free mockup or a quote on custom shirts, uniforms, NFC cards and engraved gifts. Call (346) 373-8577.",
+        "image": "http://yuno-art.com/cdn/shop/files/yuno-share-image.jpg?v=1793454765&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization"
+      ],
+      "imagesTotal": 1,
+      "brokenImages": [],
+      "imagesWithoutAlt": 0
+    },
+    {
+      "url": "https://yuno-art.com/products/premium-polo",
+      "status": 200,
+      "loadMs": 1868,
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 404 (Not Found)"
+      ],
+      "failedRequests": [
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=f342392e-37de-4a20-8f70-2eb963b563b0&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt",
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/products/premium-polo-embroidery.js"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": true,
+        "shippingInfo": true,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Premium Polo – Yuno-Art",
+      "description": "Polished pique polo with a structured collar and embroidery-ready finish. Buy more, save more Price per customized item (USD) Option 1–5 6–11 12+ S–XL $24.99 $21.99 $19.99 2XL–4XL $27.99 $24.99 $22.99 Mix available colors and sizes within this product to reach the quantity tier. Different products qualify separately. Y",
+      "canonical": "https://yuno-art.com/products/premium-polo",
+      "lang": "en",
+      "h1": [
+        "Premium Polo",
+        "Art That\n        \n          Speaks\n        \n        Louder."
+      ],
+      "og": {
+        "title": "Premium Polo",
+        "description": "Polished pique polo with a structured collar and embroidery-ready finish. Buy more, save more Price per customized item (USD) Option 1–5 6–11 12+ S–XL $24.99 $21.99 $19.99 2XL–4XL $27.99 $24.99 $22.99 Mix available colors and sizes within this product to reach the quantity tier. Different products qualify separately. Y",
+        "image": "http://yuno-art.com/cdn/shop/files/gildan-g8800-black-front.png?v=1788747537&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization"
+      ],
+      "imagesTotal": 30,
+      "brokenImages": [],
+      "imagesWithoutAlt": 10
+    },
+    {
+      "url": "https://yuno-art.com/products/essential-cotton-tee",
+      "status": 200,
+      "loadMs": 965,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=0bbd4cf1-7976-40cd-ae8f-9b83f3eb8e18&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": true,
+        "shippingInfo": true,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Essential Cotton Tee – Yuno-Art",
+      "description": "Heavyweight 100% cotton T-shirt built for crisp custom prints.Included: one single-color custom logo/design is included in the listed price.Choose your available color and size. Multicolor or additional print locations may require a different customization option.",
+      "canonical": "https://yuno-art.com/products/essential-cotton-tee",
+      "lang": "en",
+      "h1": [
+        "Essential Cotton Tee",
+        "Art That\n        \n          Speaks\n        \n        Louder."
+      ],
+      "og": {
+        "title": "Essential Cotton Tee",
+        "description": "Heavyweight 100% cotton T-shirt built for crisp custom prints.Included: one single-color custom logo/design is included in the listed price.Choose your available color and size. Multicolor or additional print locations may require a different customization option.",
+        "image": "http://yuno-art.com/cdn/shop/files/yuno-app-p1.png?v=1787979160&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization"
+      ],
+      "imagesTotal": 30,
+      "brokenImages": [],
+      "imagesWithoutAlt": 10
+    },
+    {
+      "url": "https://yuno-art.com/products/classic-twill-baseball-cap",
+      "status": 200,
+      "loadMs": 686,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=993fa633-a322-4e51-89e9-f9d011252b12&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": true,
+        "shippingInfo": true,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Classic Twill Baseball Cap – Yuno-Art",
+      "description": "A structured twill baseball cap with an adjustable snap closure and six ventilation eyelets. Choose your color and add your own text or artwork.One size with adjustable fit. Base cap: $7.00. Personalization adds $8.99 per cap when a design is added. Shipping and taxes are calculated at checkout. Buy more, save more Pri",
+      "canonical": "https://yuno-art.com/products/classic-twill-baseball-cap",
+      "lang": "en",
+      "h1": [
+        "Classic Twill Baseball Cap",
+        "Art That\n        \n          Speaks\n        \n        Louder."
+      ],
+      "og": {
+        "title": "Classic Twill Baseball Cap",
+        "description": "A structured twill baseball cap with an adjustable snap closure and six ventilation eyelets. Choose your color and add your own text or artwork.One size with adjustable fit. Base cap: $7.00. Personalization adds $8.99 per cap when a design is added. Shipping and taxes are calculated at checkout. Buy more, save more Pri",
+        "image": "http://yuno-art.com/cdn/shop/files/yuno-twill-black.jpg?v=1788664163&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization"
+      ],
+      "imagesTotal": 30,
+      "brokenImages": [],
+      "imagesWithoutAlt": 10
+    },
+    {
+      "url": "https://yuno-art.com/products/custom-reflective-safety-vest",
+      "status": 200,
+      "loadMs": 878,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=206ab741-b680-41be-890e-c77b4b0a7405&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": true,
+        "shippingInfo": true,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Custom Reflective Safety Vest – Yuno-Art",
+      "description": "High-visibility reflective safety vest customized by YUNO ART.Material: Polyester fiberStyle: Universal / unisexCategory: Reflective VestSizes: M–5XLIncluded: one single-color custom logo/design is included in the listed price.Volume pricing:1–5: $14.99 each6–11: $12.99 each12–23: $10.99 each24–49: $9.99 each50+: $8.99",
+      "canonical": "https://yuno-art.com/products/custom-reflective-safety-vest",
+      "lang": "en",
+      "h1": [
+        "Custom Reflective Safety Vest",
+        "Art That\n        \n          Speaks\n        \n        Louder."
+      ],
+      "og": {
+        "title": "Custom Reflective Safety Vest",
+        "description": "High-visibility reflective safety vest customized by YUNO ART.Material: Polyester fiberStyle: Universal / unisexCategory: Reflective VestSizes: M–5XLIncluded: one single-color custom logo/design is included in the listed price.Volume pricing:1–5: $14.99 each6–11: $12.99 each12–23: $10.99 each24–49: $9.99 each50+: $8.99",
+        "image": "http://yuno-art.com/cdn/shop/files/chaleco.png?v=1791043090&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization"
+      ],
+      "imagesTotal": 30,
+      "brokenImages": [],
+      "imagesWithoutAlt": 10
+    },
+    {
+      "url": "https://yuno-art.com/products/light-up-logo-stylus-pens",
+      "status": 200,
+      "loadMs": 1363,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=871f5bec-a259-4d19-b9a7-f0098329463c&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": true,
+        "shippingInfo": false,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Light-Up Logo Pens, Laser Engraved | Katy, TX – Yuno-Art",
+      "description": "Custom light-up LED stylus pens with your logo laser engraved. From $2.99 per pen, minimum 10, no setup fee. Made in Katy, TX by Yuno Art.",
+      "canonical": "https://yuno-art.com/products/light-up-logo-stylus-pens",
+      "lang": "en",
+      "h1": [
+        "Light-Up Logo Pens with Stylus (Laser Engraved)"
+      ],
+      "og": {
+        "title": "Light-Up Logo Pens, Laser Engraved | Katy, TX",
+        "description": "Custom light-up LED stylus pens with your logo laser engraved. From $2.99 per pen, minimum 10, no setup fee. Made in Katy, TX by Yuno Art.",
+        "image": "http://yuno-art.com/cdn/shop/files/yuno-light-up-pens-engraved.jpg?v=1793422761&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization",
+        "ProductGroup"
+      ],
+      "imagesTotal": 5,
+      "brokenImages": [],
+      "imagesWithoutAlt": 0
+    },
+    {
+      "url": "https://yuno-art.com/products/nfc-business-cards",
+      "status": 200,
+      "loadMs": 989,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=6078417a-0a58-48bc-ad41-cd1727e90695&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": true,
+        "shippingInfo": false,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Custom NFC Business Cards with Your Logo | Katy, TX – Yuno-Art",
+      "description": "Tap-to-share NFC business cards printed with your logo and programmed with your link. From $5.99 per card. Made in Katy, TX by Yuno Art.",
+      "canonical": "https://yuno-art.com/products/nfc-business-cards",
+      "lang": "en",
+      "h1": [
+        "NFC Business Cards with Your Logo"
+      ],
+      "og": {
+        "title": "Custom NFC Business Cards with Your Logo | Katy, TX",
+        "description": "Tap-to-share NFC business cards printed with your logo and programmed with your link. From $5.99 per card. Made in Katy, TX by Yuno Art.",
+        "image": "http://yuno-art.com/cdn/shop/files/yuno-real-nfc-cards-both.jpg?v=1793452327&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization",
+        "ProductGroup"
+      ],
+      "imagesTotal": 9,
+      "brokenImages": [],
+      "imagesWithoutAlt": 0
+    },
+    {
+      "url": "https://yuno-art.com/products/engraved-bamboo-pens",
+      "status": 200,
+      "loadMs": 595,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=5a9cd966-58f5-4ccc-b588-6804b6aa9900&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": true,
+        "shippingInfo": false,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Custom Engraved Bamboo Pens with Logo | Katy, TX – Yuno-Art",
+      "description": "Laser-engraved bamboo pens with your logo. From $1.89 per pen, minimum 25. Made in Katy, TX by Yuno Art.",
+      "canonical": "https://yuno-art.com/products/engraved-bamboo-pens",
+      "lang": "en",
+      "h1": [
+        "Laser-Engraved Bamboo Pens with Your Logo"
+      ],
+      "og": {
+        "title": "Custom Engraved Bamboo Pens with Logo | Katy, TX",
+        "description": "Laser-engraved bamboo pens with your logo. From $1.89 per pen, minimum 25. Made in Katy, TX by Yuno Art.",
+        "image": "http://yuno-art.com/cdn/shop/files/yuno-real-bamboo-pens.jpg?v=1793420055&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization",
+        "ProductGroup"
+      ],
+      "imagesTotal": 5,
+      "brokenImages": [],
+      "imagesWithoutAlt": 0
+    },
+    {
+      "url": "https://yuno-art.com/products/acrylic-logo-keychains",
+      "status": 200,
+      "loadMs": 860,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=acb79860-d793-449e-b8bc-748c6b8917f6&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": true,
+        "shippingInfo": false,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Custom Acrylic Logo Keychains | Katy, TX – Yuno-Art",
+      "description": "Full-color acrylic keychains with your logo, cut to shape. From $2.29 each, minimum 25. Made in Katy, TX by Yuno Art.",
+      "canonical": "https://yuno-art.com/products/acrylic-logo-keychains",
+      "lang": "en",
+      "h1": [
+        "Acrylic Logo Keychains"
+      ],
+      "og": {
+        "title": "Custom Acrylic Logo Keychains | Katy, TX",
+        "description": "Full-color acrylic keychains with your logo, cut to shape. From $2.29 each, minimum 25. Made in Katy, TX by Yuno Art.",
+        "image": "http://yuno-art.com/cdn/shop/files/yuno-sample-acrylic-keychains.jpg?v=1793413910&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization",
+        "ProductGroup"
+      ],
+      "imagesTotal": 3,
+      "brokenImages": [],
+      "imagesWithoutAlt": 0
+    },
+    {
+      "url": "https://yuno-art.com/products/classic-11-oz-mug",
+      "status": 200,
+      "loadMs": 689,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=c829ba39-5e28-44b1-9d30-a7f6c233a538&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": true,
+        "shippingInfo": true,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Classic 11 oz Mug – Yuno-Art",
+      "description": "Bright white ceramic mug made for vibrant sublimation artwork. Available in 11 oz and 15 oz capacities. Buy more, save more Price per customized item (USD) Option 1–5 6–11 12+ 11 oz $11.99 $9.99 $8.99 15 oz $13.99 $11.99 $10.99 Mix available colors and sizes within this product to reach the quantity tier. Different pro",
+      "canonical": "https://yuno-art.com/products/classic-11-oz-mug",
+      "lang": "en",
+      "h1": [
+        "Classic 11 oz Mug",
+        "Art That\n        \n          Speaks\n        \n        Louder."
+      ],
+      "og": {
+        "title": "Classic 11 oz Mug",
+        "description": "Bright white ceramic mug made for vibrant sublimation artwork. Available in 11 oz and 15 oz capacities. Buy more, save more Price per customized item (USD) Option 1–5 6–11 12+ 11 oz $11.99 $9.99 $8.99 15 oz $13.99 $11.99 $10.99 Mix available colors and sizes within this product to reach the quantity tier. Different pro",
+        "image": "http://yuno-art.com/cdn/shop/files/yuno-app-p5.png?v=1787979202&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization"
+      ],
+      "imagesTotal": 30,
+      "brokenImages": [],
+      "imagesWithoutAlt": 10
+    },
+    {
+      "url": "https://yuno-art.com/products/insulated-tumbler",
+      "status": 200,
+      "loadMs": 733,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=e91ae2db-fbf8-4ff8-b7f0-db84c701b33b&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": true,
+        "shippingInfo": true,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Insulated Tumbler – Yuno-Art",
+      "description": "Double-wall stainless tumbler that keeps drinks cold and designs sharp.20 oz options are made to order. Buy more, save more Price per customized item (USD) Option 1–5 6–11 12+ 20 oz $21.99 $19.99 $17.99 30 oz $24.99 $22.99 $20.99 Mix available colors and sizes within this product to reach the quantity tier. Different p",
+      "canonical": "https://yuno-art.com/products/insulated-tumbler",
+      "lang": "en",
+      "h1": [
+        "Insulated Tumbler",
+        "Art That\n        \n          Speaks\n        \n        Louder."
+      ],
+      "og": {
+        "title": "Insulated Tumbler",
+        "description": "Double-wall stainless tumbler that keeps drinks cold and designs sharp.20 oz options are made to order. Buy more, save more Price per customized item (USD) Option 1–5 6–11 12+ 20 oz $21.99 $19.99 $17.99 30 oz $24.99 $22.99 $20.99 Mix available colors and sizes within this product to reach the quantity tier. Different p",
+        "image": "http://yuno-art.com/cdn/shop/files/yuno-app-p6.png?v=1787979186&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization"
+      ],
+      "imagesTotal": 30,
+      "brokenImages": [],
+      "imagesWithoutAlt": 10
+    },
+    {
+      "url": "https://yuno-art.com/pages/business-packages",
+      "status": 200,
+      "loadMs": 543,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=9f151e2a-9683-48ed-941a-94a3bb8d50be&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": true,
+        "shippingInfo": false,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Business Packages: Uniforms, NFC Cards & Branded Gifts | Katy, TX – Yuno-Art",
+      "description": "Ready-made packages for Katy businesses: team uniforms, NFC business cards, branded holiday gifts and trade show kits. Free mockup. Made in Katy, TX.",
+      "canonical": "https://yuno-art.com/pages/business-packages",
+      "lang": "en",
+      "h1": [
+        "Business Packages"
+      ],
+      "og": {
+        "title": "Business Packages: Uniforms, NFC Cards & Branded Gifts | Katy, TX",
+        "description": "Ready-made packages for Katy businesses: team uniforms, NFC business cards, branded holiday gifts and trade show kits. Free mockup. Made in Katy, TX.",
+        "image": "http://yuno-art.com/cdn/shop/files/yuno-share-image.jpg?v=1793454765&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization"
+      ],
+      "imagesTotal": 1,
+      "brokenImages": [],
+      "imagesWithoutAlt": 0
+    },
+    {
+      "url": "https://yuno-art.com/pages/work-uniforms-katy",
+      "status": 200,
+      "loadMs": 552,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=3247059e-2af2-4235-91fe-c07906ad956f&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": false,
+        "shippingInfo": false,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Work Uniforms with Your Logo in Katy, TX | Yuno Art – Yuno-Art",
+      "description": "Custom work uniforms in Katy, TX: polos, t-shirts, caps, hoodies and safety vests with your logo. No minimum, volume pricing, ready in 3–5 days.",
+      "canonical": "https://yuno-art.com/pages/work-uniforms-katy",
+      "lang": "en",
+      "h1": [
+        "Work Uniforms with Your Logo in Katy, TX"
+      ],
+      "og": {
+        "title": "Work Uniforms with Your Logo in Katy, TX | Yuno Art",
+        "description": "Custom work uniforms in Katy, TX: polos, t-shirts, caps, hoodies and safety vests with your logo. No minimum, volume pricing, ready in 3–5 days.",
+        "image": "http://yuno-art.com/cdn/shop/files/yuno-share-image.jpg?v=1793454765&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization",
+        "FAQPage"
+      ],
+      "imagesTotal": 1,
+      "brokenImages": [],
+      "imagesWithoutAlt": 0
+    },
+    {
+      "url": "https://yuno-art.com/pages/nfc-business-cards-katy",
+      "status": 200,
+      "loadMs": 1715,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=a5c2d0eb-a33a-42f8-99db-c5cfa4c6bac3&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": true,
+        "shippingInfo": false,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "NFC Business Cards in Katy, TX | Yuno Art – Yuno-Art",
+      "description": "Custom NFC business cards printed in Katy, TX. Tap a phone to share your contact, website or Google reviews. Full color, from $5.99 each, ready in 3–5 days.",
+      "canonical": "https://yuno-art.com/pages/nfc-business-cards-katy",
+      "lang": "en",
+      "h1": [
+        "NFC Business Cards in Katy, TX"
+      ],
+      "og": {
+        "title": "NFC Business Cards in Katy, TX | Yuno Art",
+        "description": "Custom NFC business cards printed in Katy, TX. Tap a phone to share your contact, website or Google reviews. Full color, from $5.99 each, ready in 3–5 days.",
+        "image": "http://yuno-art.com/cdn/shop/files/yuno-share-image.jpg?v=1793454765&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization",
+        "FAQPage"
+      ],
+      "imagesTotal": 1,
+      "brokenImages": [],
+      "imagesWithoutAlt": 0
+    },
+    {
+      "url": "https://yuno-art.com/search",
+      "status": 200,
+      "loadMs": 771,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=68aa9a5b-5bfd-4288-a9f2-e9cc102b2e2c&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": true,
+        "shippingInfo": false,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Search – Yuno-Art",
+      "description": "Custom t-shirts, polos, caps, safety vests, mugs and engraved tumblers made in Katy, Texas. Upload your logo, preview it live and order online. No minimum order.",
+      "canonical": "https://yuno-art.com/search",
+      "lang": "en",
+      "h1": [
+        "Search"
+      ],
+      "og": {
+        "title": "Search",
+        "description": "Custom t-shirts, polos, caps, safety vests, mugs and engraved tumblers made in Katy, Texas. Upload your logo, preview it live and order online. No minimum order.",
+        "image": "http://yuno-art.com/cdn/shop/files/yuno-share-image.jpg?v=1793454765&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization"
+      ],
+      "imagesTotal": 1,
+      "brokenImages": [],
+      "imagesWithoutAlt": 0
+    },
+    {
+      "url": "https://yuno-art.com/policies/privacy-policy",
+      "status": 200,
+      "loadMs": 701,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=7502b213-896c-4b83-9254-2181c083eac1&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": true,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": true,
+        "shippingInfo": true,
+        "returnsInfo": true,
+        "secureBadges": true
+      },
+      "title": "Privacy policy – Yuno-Art",
+      "description": null,
+      "canonical": "https://yuno-art.com/policies/privacy-policy",
+      "lang": "en",
+      "h1": [
+        "Privacy policy"
+      ],
+      "og": {
+        "title": "Privacy policy",
+        "description": "Custom t-shirts, polos, caps, safety vests, mugs and engraved tumblers made in Katy, Texas. Upload your logo, preview it live and order online. No minimum order.",
+        "image": "http://yuno-art.com/cdn/shop/files/yuno-share-image.jpg?v=1793454765&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization"
+      ],
+      "imagesTotal": 1,
+      "brokenImages": [],
+      "imagesWithoutAlt": 0
+    },
+    {
+      "url": "https://yuno-art.com/products/custom-quarter-zip-pullover-a4-n4268",
+      "status": 200,
+      "loadMs": 712,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=cdd11f35-2162-4244-a75e-23168aa75064&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": true,
+        "shippingInfo": true,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Custom Quarter-Zip Pullovers with Logo in Katy, TX | Yuno Art – Yuno-Art",
+      "description": "Custom 1/4 zip performance pullovers with your logo for teams and businesses in Katy, TX. UPF 44+, 6 colors, S–3XL. Free mockup.",
+      "canonical": "https://yuno-art.com/products/custom-quarter-zip-pullover-a4-n4268",
+      "lang": "en",
+      "h1": [
+        "Custom 1/4 Zip Performance Pullover with Your Logo (A4 N4268)"
+      ],
+      "og": {
+        "title": "Custom Quarter-Zip Pullovers with Logo in Katy, TX | Yuno Art",
+        "description": "Custom 1/4 zip performance pullovers with your logo for teams and businesses in Katy, TX. UPF 44+, 6 colors, S–3XL. Free mockup.",
+        "image": "http://yuno-art.com/cdn/shop/files/qzip-white.webp?v=1793567823&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization",
+        "ProductGroup"
+      ],
+      "imagesTotal": 13,
+      "brokenImages": [],
+      "imagesWithoutAlt": 0
+    },
+    {
+      "url": "https://yuno-art.com/products/custom-full-zip-hoodie-gildan-18600",
+      "status": 200,
+      "loadMs": 742,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=85665a5c-05d3-49b7-9e67-24783e777fd7&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": true,
+        "shippingInfo": true,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Custom Full-Zip Hoodies with Logo in Katy, TX | Yuno Art – Yuno-Art",
+      "description": "Custom full-zip hoodies with your company logo, printed in Katy, TX. Gildan 18600, 6 colors, S–3XL. Free mockup, ready in 3–5 days.",
+      "canonical": "https://yuno-art.com/products/custom-full-zip-hoodie-gildan-18600",
+      "lang": "en",
+      "h1": [
+        "Custom Full-Zip Hoodie with Your Logo (Gildan 18600)"
+      ],
+      "og": {
+        "title": "Custom Full-Zip Hoodies with Logo in Katy, TX | Yuno Art",
+        "description": "Custom full-zip hoodies with your company logo, printed in Katy, TX. Gildan 18600, 6 colors, S–3XL. Free mockup, ready in 3–5 days.",
+        "image": "http://yuno-art.com/cdn/shop/files/fzip-black.jpg?v=1793567737&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization",
+        "ProductGroup"
+      ],
+      "imagesTotal": 13,
+      "brokenImages": [],
+      "imagesWithoutAlt": 0
+    },
+    {
+      "url": "https://yuno-art.com/products/custom-crewneck-sweatshirt-gildan-18000",
+      "status": 200,
+      "loadMs": 1309,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=1c661235-8f24-415b-80d8-9d64c9df4f91&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": true,
+        "shippingInfo": true,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Custom Crewneck Sweatshirts with Logo in Katy, TX | Yuno Art – Yuno-Art",
+      "description": "Custom crewneck sweatshirts with your logo, printed in Katy, TX. Gildan 18000, 10 colors, S–3XL. Free mockup, no minimum, ready in 3–5 days.",
+      "canonical": "https://yuno-art.com/products/custom-crewneck-sweatshirt-gildan-18000",
+      "lang": "en",
+      "h1": [
+        "Custom Crewneck Sweatshirt with Your Logo (Gildan 18000)"
+      ],
+      "og": {
+        "title": "Custom Crewneck Sweatshirts with Logo in Katy, TX | Yuno Art",
+        "description": "Custom crewneck sweatshirts with your logo, printed in Katy, TX. Gildan 18000, 10 colors, S–3XL. Free mockup, no minimum, ready in 3–5 days.",
+        "image": "http://yuno-art.com/cdn/shop/files/crew-black.jpg?v=1793567982&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization",
+        "ProductGroup"
+      ],
+      "imagesTotal": 21,
+      "brokenImages": [],
+      "imagesWithoutAlt": 0
+    },
+    {
+      "url": "https://yuno-art.com/products/custom-apron-with-logo",
+      "status": 200,
+      "loadMs": 859,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=12693013-2943-43f0-87b3-9f1df6bcb7e7&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": true,
+        "shippingInfo": true,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Custom Aprons with Logo in Katy, TX | Yuno Art – Yuno-Art",
+      "description": "Custom aprons with your logo for restaurants, salons and shops in Katy, TX. 100% cotton, 2 pockets, 12 colors. Free mockup, ready in 3–5 days.",
+      "canonical": "https://yuno-art.com/products/custom-apron-with-logo",
+      "lang": "en",
+      "h1": [
+        "Custom Apron with Your Logo – Full Length, 2 Pockets"
+      ],
+      "og": {
+        "title": "Custom Aprons with Logo in Katy, TX | Yuno Art",
+        "description": "Custom aprons with your logo for restaurants, salons and shops in Katy, TX. 100% cotton, 2 pockets, 12 colors. Free mockup, ready in 3–5 days.",
+        "image": "http://yuno-art.com/cdn/shop/files/apron-black.jpg?v=1793567685&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization",
+        "ProductGroup"
+      ],
+      "imagesTotal": 25,
+      "brokenImages": [],
+      "imagesWithoutAlt": 0
+    },
+    {
+      "url": "https://yuno-art.com/products/gildan-5400-adult-long-sleeve-t-shirt",
+      "status": 200,
+      "loadMs": 904,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=25139e16-cb3d-4064-bf83-822ffccbc9d5&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": true,
+        "shippingInfo": true,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Gildan 5400 Adult Long Sleeve T-Shirt – Yuno-Art",
+      "description": "Durable long sleeve T-shirt designed for custom printing on front, back, or chest.Included: one single-color custom logo/design is included in the listed price.Choose your available color and size. Multicolor or additional print locations may require a different customization option.",
+      "canonical": "https://yuno-art.com/products/gildan-5400-adult-long-sleeve-t-shirt",
+      "lang": "en",
+      "h1": [
+        "Gildan 5400 Adult Long Sleeve T-Shirt",
+        "Art That\n        \n          Speaks\n        \n        Louder."
+      ],
+      "og": {
+        "title": "Gildan 5400 Adult Long Sleeve T-Shirt",
+        "description": "Durable long sleeve T-shirt designed for custom printing on front, back, or chest.Included: one single-color custom logo/design is included in the listed price.Choose your available color and size. Multicolor or additional print locations may require a different customization option.",
+        "image": "http://yuno-art.com/cdn/shop/files/yuno-app-gildan-5400.png?v=1787979227&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization"
+      ],
+      "imagesTotal": 30,
+      "brokenImages": [],
+      "imagesWithoutAlt": 10
+    },
+    {
+      "url": "https://yuno-art.com/products/gildan-18500-adult-hooded-sweatshirt",
+      "status": 200,
+      "loadMs": 575,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=55e91d42-e611-4ae6-b84a-b3c74708cc75&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": true,
+        "shippingInfo": true,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Gildan 18500 Adult Hooded Sweatshirt – Yuno-Art",
+      "description": "Classic adult pullover hoodie with a soft fleece interior, drawstring hood, and front pouch pocket. Ready for custom printing on the front, back, left chest, or right chest. One customized print location is included; each additional location is $5 per item. Buy more, save more Price per customized item (USD) Option 1–5",
+      "canonical": "https://yuno-art.com/products/gildan-18500-adult-hooded-sweatshirt",
+      "lang": "en",
+      "h1": [
+        "Gildan 18500 Adult Hooded Sweatshirt",
+        "Art That\n        \n          Speaks\n        \n        Louder."
+      ],
+      "og": {
+        "title": "Gildan 18500 Adult Hooded Sweatshirt",
+        "description": "Classic adult pullover hoodie with a soft fleece interior, drawstring hood, and front pouch pocket. Ready for custom printing on the front, back, left chest, or right chest. One customized print location is included; each additional location is $5 per item. Buy more, save more Price per customized item (USD) Option 1–5",
+        "image": "http://yuno-art.com/cdn/shop/files/yuno-app-p4.jpg?v=1787979169&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization"
+      ],
+      "imagesTotal": 30,
+      "brokenImages": [],
+      "imagesWithoutAlt": 10
+    },
+    {
+      "url": "https://yuno-art.com/products/custom-polyester-long-sleeve-shirt",
+      "status": 200,
+      "loadMs": 754,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=044d0488-1c83-4ce0-9578-56448957ae4d&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": true,
+        "shippingInfo": true,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Polyester Performance Long Sleeve — Custom Print – Yuno-Art",
+      "description": "100% polyester performance long sleeve shirt customized by YUNO ART. Choose your garment color, size, and print option.Included: one single-color custom logo/design is included in the listed price.Multicolor or more complex artwork may require a different print option or additional charge depending on the design.",
+      "canonical": "https://yuno-art.com/products/custom-polyester-long-sleeve-shirt",
+      "lang": "en",
+      "h1": [
+        "Polyester Performance Long Sleeve — Custom Print",
+        "Art That\n        \n          Speaks\n        \n        Louder."
+      ],
+      "og": {
+        "title": "Polyester Performance Long Sleeve — Custom Print",
+        "description": "100% polyester performance long sleeve shirt customized by YUNO ART. Choose your garment color, size, and print option.Included: one single-color custom logo/design is included in the listed price.Multicolor or more complex artwork may require a different print option or additional charge depending on the design.",
+        "image": "http://yuno-art.com/cdn/shop/files/yuno-laviva-polyester-safety-green.jpg?v=1790310123&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization"
+      ],
+      "imagesTotal": 30,
+      "brokenImages": [],
+      "imagesWithoutAlt": 10
+    },
+    {
+      "url": "https://yuno-art.com/products/outlash-2017-hooded-performance-shirt",
+      "status": 200,
+      "loadMs": 832,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=aabab0f1-3846-494b-8c3c-4eb5b0a41196&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": true,
+        "shippingInfo": true,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Outlash 2017 Hooded Performance Shirt – Yuno-Art",
+      "description": "Lightweight hooded long sleeve shirt made from 100% performance polyester interlock, 4.1 oz./yd². Model: Outlash 2017.$16 per shirt in S–XL, including DTF artwork on the front and back. Taxes and shipping are additional. Larger sizes are not offered until pricing is approved.Camiseta ligera de manga larga con capucha, ",
+      "canonical": "https://yuno-art.com/products/outlash-2017-hooded-performance-shirt",
+      "lang": "en",
+      "h1": [
+        "Outlash 2017 Hooded Performance Shirt"
+      ],
+      "og": {
+        "title": "Outlash 2017 Hooded Performance Shirt",
+        "description": "Lightweight hooded long sleeve shirt made from 100% performance polyester interlock, 4.1 oz./yd². Model: Outlash 2017.$16 per shirt in S–XL, including DTF artwork on the front and back. Taxes and shipping are additional. Larger sizes are not offered until pricing is approved.Camiseta ligera de manga larga con capucha, ",
+        "image": "http://yuno-art.com/cdn/shop/files/outlash_wear_hooded_long_sleeve_safety_orange.jpg?v=1791439115&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization"
+      ],
+      "imagesTotal": 22,
+      "brokenImages": [],
+      "imagesWithoutAlt": 0
+    },
+    {
+      "url": "https://yuno-art.com/products/laviva-six-panel-cap",
+      "status": 200,
+      "loadMs": 650,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=f9937ebc-411e-4592-950c-60fa265a8cdc&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": true,
+        "shippingInfo": true,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Six Panel Custom Cap – Yuno-Art",
+      "description": "Structured six-panel cap ready for YUNO ART customization. Choose your available color combination and personalize the front with your own text or artwork.Customization: single-color custom logo/design is included in the listed price.",
+      "canonical": "https://yuno-art.com/products/laviva-six-panel-cap",
+      "lang": "en",
+      "h1": [
+        "Six Panel Custom Cap",
+        "Art That\n        \n          Speaks\n        \n        Louder."
+      ],
+      "og": {
+        "title": "Six Panel Custom Cap",
+        "description": "Structured six-panel cap ready for YUNO ART customization. Choose your available color combination and personalize the front with your own text or artwork.Customization: single-color custom logo/design is included in the listed price.",
+        "image": "http://yuno-art.com/cdn/shop/files/yuno-six-panel-black-white.jpg?v=1788664193&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization"
+      ],
+      "imagesTotal": 30,
+      "brokenImages": [],
+      "imagesWithoutAlt": 10
+    },
+    {
+      "url": "https://yuno-art.com/collections/create-your-own",
+      "status": 200,
+      "loadMs": 774,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=312cea7d-9861-47ca-b577-94793f3c42ab&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": false,
+        "shippingInfo": false,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Create Your Own – Yuno-Art",
+      "description": "Choose a product, upload your artwork, and create custom YUNO ART merchandise.",
+      "canonical": "https://yuno-art.com/collections/create-your-own",
+      "lang": "en",
+      "h1": [
+        "Collection:\nCreate Your Own"
+      ],
+      "og": {
+        "title": "Create Your Own",
+        "description": "Choose a product, upload your artwork, and create custom YUNO ART merchandise.",
+        "image": "http://yuno-art.com/cdn/shop/files/yuno-share-image.jpg?v=1793454765&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization"
+      ],
+      "imagesTotal": 14,
+      "brokenImages": [],
+      "imagesWithoutAlt": 0
+    },
+    {
+      "url": "https://yuno-art.com/collections/custom-mugs",
+      "status": 200,
+      "loadMs": 557,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=83484160-9129-4918-996d-370702235ee0&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": false,
+        "shippingInfo": false,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Custom Mugs – Yuno-Art",
+      "description": "Create your own personalized mug with photos, logos, or custom text. Perfect for gifts, businesses, and special occasions.",
+      "canonical": "https://yuno-art.com/collections/custom-mugs",
+      "lang": "en",
+      "h1": [
+        "Collection:\nCustom Mugs"
+      ],
+      "og": {
+        "title": "Custom Mugs",
+        "description": "Create your own personalized mug with photos, logos, or custom text. Perfect for gifts, businesses, and special occasions.",
+        "image": "http://yuno-art.com/cdn/shop/collections/c8a8765a-df0e-4c96-8ad3-b5aa07ef56a2.jpg?v=1772165241&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization"
+      ],
+      "imagesTotal": 1,
+      "brokenImages": [],
+      "imagesWithoutAlt": 0
+    },
+    {
+      "url": "https://yuno-art.com/collections/corporate-holiday-gifts",
+      "status": 200,
+      "loadMs": 717,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=550b197f-80ff-498b-9613-cd5d3d85b8f6&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": false,
+        "shippingInfo": false,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Corporate Holiday Gifts with Your Logo in Katy, TX – Yuno-Art",
+      "description": "Branded holiday gifts for clients and employees: engraved tumblers, logo mugs, metal business cards, caps and hoodies. Made in Katy, TX. Volume pricing from 6.",
+      "canonical": "https://yuno-art.com/collections/corporate-holiday-gifts",
+      "lang": "en",
+      "h1": [
+        "Collection:\nCorporate Holiday Gifts"
+      ],
+      "og": {
+        "title": "Corporate Holiday Gifts with Your Logo in Katy, TX",
+        "description": "Branded holiday gifts for clients and employees: engraved tumblers, logo mugs, metal business cards, caps and hoodies. Made in Katy, TX. Volume pricing from 6.",
+        "image": "http://yuno-art.com/cdn/shop/files/yuno-share-image.jpg?v=1793454765&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization"
+      ],
+      "imagesTotal": 14,
+      "brokenImages": [],
+      "imagesWithoutAlt": 0
+    },
+    {
+      "url": "https://yuno-art.com/blogs/news/corporate-holiday-gifts-katy",
+      "status": 200,
+      "loadMs": 744,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=3793e21b-9f82-484c-bd66-87b684de6f7d&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt",
+        "https://yuno-art.com/api/collect"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": false,
+        "shippingInfo": false,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Corporate Holiday Gifts with Your Logo in Katy, TX – Yuno-Art",
+      "description": "Holiday gift ideas for clients and employees: engraved tumblers, logo mugs, metal business cards, caps and hoodies. Prices, volume tiers and tips.",
+      "canonical": "https://yuno-art.com/blogs/news/corporate-holiday-gifts-katy",
+      "lang": "en",
+      "h1": [
+        "Corporate Holiday Gifts with Your Logo: 5 Ideas for Katy Businesses"
+      ],
+      "og": {
+        "title": "Corporate Holiday Gifts with Your Logo in Katy, TX",
+        "description": "Holiday gift ideas for clients and employees: engraved tumblers, logo mugs, metal business cards, caps and hoodies. Prices, volume tiers and tips.",
+        "image": "http://yuno-art.com/cdn/shop/files/yuno-share-image.jpg?v=1793454765&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization",
+        "Article"
+      ],
+      "imagesTotal": 1,
+      "brokenImages": [],
+      "imagesWithoutAlt": 0
+    },
+    {
+      "url": "https://yuno-art.com/products/laser-engraved-metal-business-cards",
+      "status": 200,
+      "loadMs": 586,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=0ba12b2d-ae76-4f03-8c8b-1111af63afe3&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": true,
+        "shippingInfo": true,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Laser Engraved Metal Business Cards – Yuno-Art",
+      "description": "Your brand, engraved on slim aluminum business cards. Choose a pack of 25, 50 or 100 cards, one-sided or two-sided laser engraving, and your card color.Personalization is included in the pack price. One repeated design per pack; for two-sided cards, one front design and one back design repeated across the pack. Quantit",
+      "canonical": "https://yuno-art.com/products/laser-engraved-metal-business-cards",
+      "lang": "en",
+      "h1": [
+        "Laser Engraved Metal Business Cards"
+      ],
+      "og": {
+        "title": "Laser Engraved Metal Business Cards",
+        "description": "Your brand, engraved on slim aluminum business cards. Choose a pack of 25, 50 or 100 cards, one-sided or two-sided laser engraving, and your card color.Personalization is included in the pack price. One repeated design per pack; for two-sided cards, one front design and one back design repeated across the pack. Quantit",
+        "image": "http://yuno-art.com/cdn/shop/files/yuno-metal-business-cards-illustration_bc84a69f-335a-441e-b53d-59dbe722398a.png?v=1791173697&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization"
+      ],
+      "imagesTotal": 22,
+      "brokenImages": [],
+      "imagesWithoutAlt": 0
+    },
+    {
+      "url": "https://yuno-art.com/products/custom-dtf-transfer",
+      "status": 200,
+      "loadMs": 615,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=32aca59e-a0cd-45df-90cc-908636b4df4f&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": true,
+        "shippingInfo": true,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Custom DTF Transfer – Yuno-Art",
+      "description": "Order ready-to-press full-color transfers by size and quantity.",
+      "canonical": "https://yuno-art.com/products/custom-dtf-transfer",
+      "lang": "en",
+      "h1": [
+        "Custom DTF Transfer",
+        "Art That\n        \n          Speaks\n        \n        Louder."
+      ],
+      "og": {
+        "title": "Custom DTF Transfer",
+        "description": "Order ready-to-press full-color transfers by size and quantity.",
+        "image": "http://yuno-art.com/cdn/shop/files/yuno-app-p7.png?v=1787979193&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization"
+      ],
+      "imagesTotal": 32,
+      "brokenImages": [],
+      "imagesWithoutAlt": 10
+    },
+    {
+      "url": "https://yuno-art.com/products/custom-raglan-baseball-tee-a4-n3514",
+      "status": 200,
+      "loadMs": 750,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=b2d67cf5-2db9-4e98-8454-ae1b26f5e6be&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": true,
+        "shippingInfo": true,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Custom Raglan Baseball Tees in Katy, TX | Yuno Art – Yuno-Art",
+      "description": "Custom 3/4 sleeve raglan baseball tees with your logo, names and numbers. A4 Softek, 8 color combos, XS–4XL. Printed in Katy, TX.",
+      "canonical": "https://yuno-art.com/products/custom-raglan-baseball-tee-a4-n3514",
+      "lang": "en",
+      "h1": [
+        "Custom 3/4 Sleeve Raglan Baseball Tee (A4 Softek N3514)"
+      ],
+      "og": {
+        "title": "Custom Raglan Baseball Tees in Katy, TX | Yuno Art",
+        "description": "Custom 3/4 sleeve raglan baseball tees with your logo, names and numbers. A4 Softek, 8 color combos, XS–4XL. Printed in Katy, TX.",
+        "image": "http://yuno-art.com/cdn/shop/files/raglan-black-graphite.webp?v=1793567905&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization",
+        "ProductGroup"
+      ],
+      "imagesTotal": 17,
+      "brokenImages": [],
+      "imagesWithoutAlt": 0
+    },
+    {
+      "url": "https://yuno-art.com/blogs/news/how-to-prepare-your-logo-for-custom-printing",
+      "status": 200,
+      "loadMs": 556,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=d41e1c61-3eac-41e5-905a-253fdeab945e&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": true,
+        "shippingInfo": false,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "How to Prepare Your Logo for Custom Printing – Yuno-Art",
+      "description": "File formats, resolution, size and colors explained in plain English. Get your logo ready for shirts, caps, mugs and tumblers, with no blurry prints.",
+      "canonical": "https://yuno-art.com/blogs/news/how-to-prepare-your-logo-for-custom-printing",
+      "lang": "en",
+      "h1": [
+        "How to Prepare Your Logo or Artwork for Custom Printing (and Avoid Blurry Results)"
+      ],
+      "og": {
+        "title": "How to Prepare Your Logo for Custom Printing",
+        "description": "File formats, resolution, size and colors explained in plain English. Get your logo ready for shirts, caps, mugs and tumblers, with no blurry prints.",
+        "image": "http://yuno-art.com/cdn/shop/files/yuno-share-image.jpg?v=1793454765&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization",
+        "Article"
+      ],
+      "imagesTotal": 1,
+      "brokenImages": [],
+      "imagesWithoutAlt": 0
+    },
+    {
+      "url": "https://yuno-art.com/blogs/news/dtf-vs-embroidery-vs-sublimation-vs-laser-engraving",
+      "status": 200,
+      "loadMs": 480,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=63eae0c6-4107-4a79-8489-b055cc408d0d&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": false,
+        "shippingInfo": false,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "DTF vs Embroidery vs Sublimation vs Laser Engraving – Yuno-Art",
+      "description": "Not sure how to customize your shirts, hats or tumblers? Compare DTF, embroidery, sublimation and laser engraving: look, durability, cost and best uses.",
+      "canonical": "https://yuno-art.com/blogs/news/dtf-vs-embroidery-vs-sublimation-vs-laser-engraving",
+      "lang": "en",
+      "h1": [
+        "DTF vs. Embroidery vs. Sublimation vs. Laser Engraving: Which One Should You Choose?"
+      ],
+      "og": {
+        "title": "DTF vs Embroidery vs Sublimation vs Laser Engraving",
+        "description": "Not sure how to customize your shirts, hats or tumblers? Compare DTF, embroidery, sublimation and laser engraving: look, durability, cost and best uses.",
+        "image": "http://yuno-art.com/cdn/shop/files/yuno-share-image.jpg?v=1793454765&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization",
+        "Article"
+      ],
+      "imagesTotal": 1,
+      "brokenImages": [],
+      "imagesWithoutAlt": 0
+    },
+    {
+      "url": "https://yuno-art.com/pages/data-sharing-opt-out",
+      "status": 200,
+      "loadMs": 1183,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=43da6d39-3066-4591-ac39-17f3d5120a9d&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/api/collect",
+        "https://0e58607ce7ff.w.hcaptcha.com/logo.png"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": false,
+        "shippingInfo": false,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Your Privacy Choices – Yuno-Art",
+      "description": "Manage your privacy choices at Yuno Art and opt out of the sale or sharing of your personal information for targeted advertising.",
+      "canonical": "https://yuno-art.com/pages/data-sharing-opt-out",
+      "lang": "en",
+      "h1": [
+        "Your Privacy Choices"
+      ],
+      "og": {
+        "title": "Your Privacy Choices",
+        "description": "Manage your privacy choices at Yuno Art and opt out of the sale or sharing of your personal information for targeted advertising.",
+        "image": "http://yuno-art.com/cdn/shop/files/yuno-share-image.jpg?v=1793454765&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization"
+      ],
+      "imagesTotal": 1,
+      "brokenImages": [],
+      "imagesWithoutAlt": 0
+    },
+    {
+      "url": "https://yuno-art.com/products/custom-canvas-tote-bag",
+      "status": 200,
+      "loadMs": 716,
+      "consoleErrors": [],
+      "failedRequests": [
+        "https://yuno-art.com/api/collect",
+        "https://yuno-art.com/services/login_with_shop/authorize?analytics_context=loginWithShopEmbed&analytics_trace_id=bf31007d-689a-49df-ad93-e0e68d09da0c&compact_layout=true&flow=embed&flow_version=account_menu&locale=en&preact=true&redirect_uri=https%3A%2F%2Fyuno-art.com&response_mode=web_message&response_type=id_token&scope=openid+email%3Averified+pay%3Asession_token+profile+shop%3Aaccount_uuid&storefront_domain=https%3A%2F%2Fyuno-art.com&target_origin=https%3A%2F%2Fyuno-art.com&ux_mode=windoid&ux_role=prompt",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "https://yuno-art.com/.well-known/shopify/monorail/unstable/produce_batch"
+      ],
+      "signals": {
+        "googleAnalytics": false,
+        "googleTagManager": false,
+        "metaPixel": false,
+        "tiktokPixel": false,
+        "pinterestTag": false,
+        "cookieBanner": false,
+        "newsletter": true,
+        "whatsapp": false,
+        "instagram": true,
+        "reviews": true,
+        "shippingInfo": true,
+        "returnsInfo": false,
+        "secureBadges": false
+      },
+      "title": "Custom Canvas Tote Bags with Logo in Katy, TX | Yuno Art – Yuno-Art",
+      "description": "Custom canvas tote bags with your logo, printed in Katy, TX. Heavy 12 oz cotton, 11 colors. Great for events and gifts. Free mockup.",
+      "canonical": "https://yuno-art.com/products/custom-canvas-tote-bag",
+      "lang": "en",
+      "h1": [
+        "Custom Canvas Tote Bag with Your Logo"
+      ],
+      "og": {
+        "title": "Custom Canvas Tote Bags with Logo in Katy, TX | Yuno Art",
+        "description": "Custom canvas tote bags with your logo, printed in Katy, TX. Heavy 12 oz cotton, 11 colors. Great for events and gifts. Free mockup.",
+        "image": "http://yuno-art.com/cdn/shop/files/tote-natural.jpg?v=1793567660&width=1200"
+      },
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "Organization",
+        "ProductGroup"
+      ],
+      "imagesTotal": 23,
+      "brokenImages": [],
+      "imagesWithoutAlt": 0
+    }
+  ],
+  "brokenLinks": [],
+  "purchaseFlow": {
+    "steps": [
+      {
+        "name": "Catálogo (products.json)",
+        "ok": true,
+        "detail": "25 productos, 25 disponibles"
+      },
+      {
+        "name": "Ficha de producto con precio",
+        "ok": true,
+        "detail": "https://yuno-art.com/products/custom-raglan-baseball-tee-a4-n3514 · $27.99"
+      },
+      {
+        "name": "Botón añadir al carrito",
+        "ok": true,
+        "detail": "Pulsado"
+      },
+      {
+        "name": "Producto en el carrito",
+        "ok": true,
+        "detail": "OK"
+      },
+      {
+        "name": "Checkout carga con formulario",
+        "ok": true,
+        "detail": "https://yuno-art.com/checkouts/cn/hWNIgXK83FbiLxJBLtPrOodO/en-us?_r=AQABxC0bIm7PmKlDYwD3POiag8VP85ZKI9LwLkg7WRyeiwuS16Fx&auto_redirect=false&edge_redirect=true&skip_shop_pay=true"
+      },
+      {
+        "name": "Métodos de pago detectados",
+        "ok": true,
+        "detail": "paypal, apple pay, google pay, shop pay, visa, mastercard, stripe"
+      }
+    ],
+    "ok": true,
+    "blocked": []
+  },
+  "marketing": {
+    "googleAnalytics": false,
+    "googleTagManager": false,
+    "metaPixel": false,
+    "tiktokPixel": false,
+    "pinterestTag": false,
+    "cookieBanner": true,
+    "newsletter": true,
+    "whatsapp": false,
+    "instagram": true,
+    "reviews": true,
+    "shippingInfo": true,
+    "returnsInfo": true,
+    "secureBadges": true
+  },
+  "issues": [
+    {
+      "severity": "baja",
+      "area": "SEO",
+      "message": "2 etiquetas H1",
+      "where": "https://yuno-art.com/"
+    },
+    {
+      "severity": "alta",
+      "area": "visual",
+      "message": "1 imágenes rotas",
+      "where": "https://yuno-art.com/"
+    },
+    {
+      "severity": "baja",
+      "area": "SEO",
+      "message": "1 imágenes sin alt",
+      "where": "https://yuno-art.com/"
+    },
+    {
+      "severity": "baja",
+      "area": "técnico",
+      "message": "2 errores JS en consola",
+      "where": "https://yuno-art.com/"
+    },
+    {
+      "severity": "baja",
+      "area": "SEO",
+      "message": "2 etiquetas H1",
+      "where": "https://yuno-art.com/products/premium-polo"
+    },
+    {
+      "severity": "baja",
+      "area": "SEO",
+      "message": "10 imágenes sin alt",
+      "where": "https://yuno-art.com/products/premium-polo"
+    },
+    {
+      "severity": "baja",
+      "area": "técnico",
+      "message": "1 errores JS en consola",
+      "where": "https://yuno-art.com/products/premium-polo"
+    },
+    {
+      "severity": "baja",
+      "area": "SEO",
+      "message": "2 etiquetas H1",
+      "where": "https://yuno-art.com/products/essential-cotton-tee"
+    },
+    {
+      "severity": "baja",
+      "area": "SEO",
+      "message": "10 imágenes sin alt",
+      "where": "https://yuno-art.com/products/essential-cotton-tee"
+    },
+    {
+      "severity": "baja",
+      "area": "SEO",
+      "message": "2 etiquetas H1",
+      "where": "https://yuno-art.com/products/classic-twill-baseball-cap"
+    },
+    {
+      "severity": "baja",
+      "area": "SEO",
+      "message": "10 imágenes sin alt",
+      "where": "https://yuno-art.com/products/classic-twill-baseball-cap"
+    },
+    {
+      "severity": "baja",
+      "area": "SEO",
+      "message": "2 etiquetas H1",
+      "where": "https://yuno-art.com/products/custom-reflective-safety-vest"
+    },
+    {
+      "severity": "baja",
+      "area": "SEO",
+      "message": "10 imágenes sin alt",
+      "where": "https://yuno-art.com/products/custom-reflective-safety-vest"
+    },
+    {
+      "severity": "baja",
+      "area": "SEO",
+      "message": "2 etiquetas H1",
+      "where": "https://yuno-art.com/products/classic-11-oz-mug"
+    },
+    {
+      "severity": "baja",
+      "area": "SEO",
+      "message": "10 imágenes sin alt",
+      "where": "https://yuno-art.com/products/classic-11-oz-mug"
+    },
+    {
+      "severity": "baja",
+      "area": "SEO",
+      "message": "2 etiquetas H1",
+      "where": "https://yuno-art.com/products/insulated-tumbler"
+    },
+    {
+      "severity": "baja",
+      "area": "SEO",
+      "message": "10 imágenes sin alt",
+      "where": "https://yuno-art.com/products/insulated-tumbler"
+    },
+    {
+      "severity": "media",
+      "area": "SEO",
+      "message": "Sin meta description",
+      "where": "https://yuno-art.com/policies/privacy-policy"
+    },
+    {
+      "severity": "baja",
+      "area": "SEO",
+      "message": "2 etiquetas H1",
+      "where": "https://yuno-art.com/products/gildan-5400-adult-long-sleeve-t-shirt"
+    },
+    {
+      "severity": "baja",
+      "area": "SEO",
+      "message": "10 imágenes sin alt",
+      "where": "https://yuno-art.com/products/gildan-5400-adult-long-sleeve-t-shirt"
+    },
+    {
+      "severity": "baja",
+      "area": "SEO",
+      "message": "2 etiquetas H1",
+      "where": "https://yuno-art.com/products/gildan-18500-adult-hooded-sweatshirt"
+    },
+    {
+      "severity": "baja",
+      "area": "SEO",
+      "message": "10 imágenes sin alt",
+      "where": "https://yuno-art.com/products/gildan-18500-adult-hooded-sweatshirt"
+    },
+    {
+      "severity": "baja",
+      "area": "SEO",
+      "message": "2 etiquetas H1",
+      "where": "https://yuno-art.com/products/custom-polyester-long-sleeve-shirt"
+    },
+    {
+      "severity": "baja",
+      "area": "SEO",
+      "message": "10 imágenes sin alt",
+      "where": "https://yuno-art.com/products/custom-polyester-long-sleeve-shirt"
+    },
+    {
+      "severity": "baja",
+      "area": "SEO",
+      "message": "2 etiquetas H1",
+      "where": "https://yuno-art.com/products/laviva-six-panel-cap"
+    },
+    {
+      "severity": "baja",
+      "area": "SEO",
+      "message": "10 imágenes sin alt",
+      "where": "https://yuno-art.com/products/laviva-six-panel-cap"
+    },
+    {
+      "severity": "baja",
+      "area": "SEO",
+      "message": "2 etiquetas H1",
+      "where": "https://yuno-art.com/products/custom-dtf-transfer"
+    },
+    {
+      "severity": "baja",
+      "area": "SEO",
+      "message": "10 imágenes sin alt",
+      "where": "https://yuno-art.com/products/custom-dtf-transfer"
+    },
+    {
+      "severity": "media",
+      "area": "SEO",
+      "message": "Las fichas de producto no tienen datos estructurados Product (sin precio/stock en Google)",
+      "where": "https://yuno-art.com/products/premium-polo"
+    },
+    {
+      "severity": "media",
+      "area": "marketing",
+      "message": "No se detecta Google Analytics/GTM (verificar en Shopify > Configuración > Eventos de clientes)"
+    },
+    {
+      "severity": "media",
+      "area": "marketing",
+      "message": "No se detecta el píxel de Meta (Instagram/Facebook Ads) (verificar en Shopify > Configuración > Eventos de clientes)"
+    }
+  ]
+}
