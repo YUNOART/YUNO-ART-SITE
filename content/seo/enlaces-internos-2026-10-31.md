@@ -11,7 +11,7 @@ Método: rastreé las 37 URL del sitemap y las 5 vistas de servicio de la home (
 | /collections/custom-tumbler-personalized-photo-logo-or-text | Colección con 1 solo producto (el vaso) | No enlazar: duplica la ficha del vaso. Redirigir a /products/insulated-tumbler |
 | /products/mug | Producto antiguo de Kickflip, $14.99, texto de plantilla | No enlazar. Pasar a borrador y redirigir a /products/classic-11-oz-mug |
 | /collections/frontpage | Colección automática de Shopify | No enlazar (es interna de Shopify) |
-| /collections/custom-embroidery-logo-orders-business-apparel-branding | Bordado, vacía por la pausa | No enlazar hasta reactivar el bordado |
+| /collections/custom-embroidery-logo-orders-business-apparel-branding | Bordado (reactivado el 04-11-2026) | Enlazada desde la guía 1 y desde Yuno |
 | /pages/data-sharing-opt-out | Página legal de privacidad | Enlazar en el pie como "Your privacy choices" (lo piden las leyes de privacidad de varios estados) |
 
 ## 2. Páginas casi huérfanas (1 enlace entrante)

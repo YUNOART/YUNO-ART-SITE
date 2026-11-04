@@ -78,7 +78,7 @@ Usa los precios de la tienda tal como están hoy; actualízalos aquí si cambian
 
 ## 6. Productos (sección "Products")
 
-Sube 6-10 productos con **foto real** (trabajos hechos, no mockups), nombre, precio y el botón "Order online" con enlace a la ficha de la web. Empieza por los más vendidos y los de empresas: chaleco reflectante, polo, camiseta, gorra, vaso, tarjetas de metal. **No subas productos de bordado mientras esté en pausa.**
+Sube 6-10 productos con **foto real** (trabajos hechos, no mockups), nombre, precio y el botón "Order online" con enlace a la ficha de la web. Empieza por los más vendidos y los de empresas: chaleco reflectante, polo, camiseta, gorra, vaso, tarjetas de metal. Desde el 04-11-2026 el bordado está activo: añade también el polo bordado y la gorra bordada.
 
 ## 7. Atributos
 

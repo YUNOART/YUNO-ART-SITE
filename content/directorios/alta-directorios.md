@@ -49,7 +49,7 @@ Custom T-Shirts · Work Uniforms · Custom Polos · Custom Caps · Safety Vests 
 
 ### Yelp (gratis) – biz.yelp.com
 1. Entra en **biz.yelp.com** → "Add your business" (o "Claim" si ya existe una ficha).
-2. Categorías: **Screen Printing/T-Shirt Printing** (principal), **Customized Merchandise** y **Signmaking**. No pongas bordado mientras esté en pausa.
+2. Categorías: **Screen Printing/T-Shirt Printing** (principal), **Customized Merchandise** y **Signmaking**. Añade también **Embroidery Service**: el bordado está activo desde el 04-11-2026.
 3. Pega la descripción media en "Specialties" y la larga en "About the business".
 4. Sube logo, portada y al menos 5 fotos reales (bolígrafos encendidos, tarjeta NFC, polos entregados).
 5. Yelp te ofrecerá anuncios de pago: no hace falta, la ficha gratis es suficiente.

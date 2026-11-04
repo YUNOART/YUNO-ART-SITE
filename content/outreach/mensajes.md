@@ -5,7 +5,7 @@ Los mensajes para clientes van en inglés. Hay versión en español para negocio
 Antes de usarlos:
 - Cambia `[Your name]` por tu nombre.
 - **La oferta de lanzamiento** es **10 % de descuento en el primer pedido de 6 o más prendas con el código `KATYBIZ10`, más un mockup gratis**. El código ya está activo en Shopify: se usa una vez por cliente y se suma a los descuentos por volumen, salvo en el Polyester Long Sleeve, donde se aplica el mejor de los dos.
-- **El bordado está en pausa:** no ofrezcas polos ni gorras bordados. Todo se hace con DTF (logo impreso a todo color).
+- **El bordado está activo de nuevo (04-11-2026):** puedes ofrecer polos y gorras bordados, además de DTF para logos a todo color.
 - No prometas plazos de entrega hasta tener uno fijo.
 
 ---
