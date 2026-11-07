@@ -89,3 +89,12 @@ Tema: "YUNO | Embroidery back | Nov 4" · sección `sections/yuno-home-v2.liquid
 7. **`/impeccable polish`**: pasada final.
 
 Todo en una copia del tema; la usuaria publica.
+
+## Arreglos aplicados (07-11) · tema "YUNO | Design polish | Nov 7" (sin publicar)
+1. Botones de WhatsApp (bloque final y flotante): verde de marca con texto oscuro #05210F → contraste ≈ 9:1.
+2. Botón flotante de WhatsApp oculto mientras se ven los botones del hero (aparece al hacer scroll); el Yuno de la esquina solo aparece cuando el hero ya no se ve y se oculta al volver arriba. Entrada suave sin rebote.
+3. Sin texto con degradado: palabra rotativa del titular en morado sólido #6A1FD6, cifras en tinta, separadores de la cinta en cian; bloque final en fondo oscuro sólido (antes degradado animado con texto blanco a 2.3:1).
+4. Párrafos y textos en Figtree (misma familia que los titulares) en toda la web, sin espaciado extra entre letras.
+5. Un solo Yuno en el primer pantallazo; lista de ventajas del hero con ancho limitado para que no quede debajo de Yuno.
+
+Detector después de los arreglos: 23 → 4 avisos (2 cintas animadas, placeholder del email del pie a 4.3:1, el globo de Yuno del hero sobre una etiqueta del collage cuando pasa).
