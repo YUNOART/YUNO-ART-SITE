@@ -10,7 +10,7 @@ Regla de oro: **el mismo nombre, dirección y teléfono en todos los sitios**, e
 | Dirección | 1926 Charlton House Ln, Katy, TX 77493 |
 | Teléfono | (346) 373-8577 |
 | Email | sales@yuno-art.com |
-| Horario | Monday–Saturday, 9:00 AM – 6:00 PM · Sunday closed |
+| Horario | Monday 8:00 AM – 6:00 PM · Tuesday–Saturday 8:00 AM – 5:00 PM · Sunday 9:00 AM – 5:00 PM |
 | Zona de servicio | Katy, Cinco Ranch, Fulshear, Brookshire, Sugar Land, Richmond, Cypress, West Houston |
 | Año de apertura | (pon el tuyo) |
 | Instagram | https://www.instagram.com/yunoart26/ |
