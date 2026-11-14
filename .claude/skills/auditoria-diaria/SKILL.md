@@ -74,3 +74,9 @@ Prioriza siempre por **impacto en ventas ÷ esfuerzo**. Algunas palancas de mark
 ## 5. Avisar
 
 Si el flujo de compra falla o aparece una incidencia **crítica** o **alta** nueva, ponla en la primera línea de tu respuesta para que se vea enseguida. Si todo está bien, basta con un resumen de 3 líneas y el enlace al informe.
+
+## Galerías y filtros
+El script también abre la galería DTF (`/?view=yuno-dtf-transfers`) y la portada, baja hasta el final y avisa de:
+- filtros o categorías visibles con "(0)" diseños (media);
+- tarjetas de diseño que no muestran imagen (alta).
+Si aparece alguno, dilo en el reporte con los nombres de los filtros o diseños afectados.

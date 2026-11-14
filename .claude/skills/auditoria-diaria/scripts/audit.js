@@ -264,6 +264,33 @@ async function purchaseFlow(context) {
   if (!s.returnsInfo) issue('baja', 'marketing', 'No se menciona política de devoluciones');
   if (!s.cookieBanner) issue('media', 'legal', 'No se detecta banner de cookies (RGPD)');
 
+  // Galerías y filtros: categorías vacías "(0)" y tarjetas sin imagen (se pintan con JS, el rastreo no las ve)
+  const galleryPages = [BASE + '/?view=yuno-dtf-transfers', BASE + '/'];
+  for (const gUrl of galleryPages) {
+    try {
+      await page.goto(gUrl, { waitUntil: 'networkidle', timeout: 60000 });
+      await page.waitForTimeout(3000);
+      for (let y = 0; y < 12; y++) { await page.mouse.wheel(0, 900); await page.waitForTimeout(250); }
+      await page.waitForTimeout(1500);
+      const g = await page.evaluate(() => {
+        const visible = (el) => { const s = getComputedStyle(el); const r = el.getBoundingClientRect(); return !el.hidden && s.display !== 'none' && s.visibility !== 'hidden' && r.width > 0 && r.height > 0; };
+        const emptyFilters = [...document.querySelectorAll('button, a, [role="tab"], [data-gallery-filter]')]
+          .filter((el) => visible(el) && /\(\s*0\s*\)\s*$/.test(el.textContent.trim()))
+          .map((el) => el.textContent.trim().replace(/\s+/g, ' '));
+        const noImage = [...document.querySelectorAll('.yuno-dtf-gallery__card')].filter(visible).filter((card) => {
+          const art = card.querySelector('.yuno-dtf-gallery__art');
+          const img = card.querySelector('img');
+          const hasBg = art && getComputedStyle(art).backgroundImage !== 'none';
+          const hasImg = img && img.complete && img.naturalWidth > 0;
+          return !hasBg && !hasImg;
+        }).map((card) => card.querySelector('h3')?.textContent.trim() || 'tarjeta sin título');
+        return { emptyFilters, noImage };
+      });
+      if (g.emptyFilters.length) issue('media', 'visual', `${g.emptyFilters.length} filtros/categorías vacíos visibles (0 diseños): ${g.emptyFilters.join(' | ')}`, gUrl);
+      if (g.noImage.length) issue('alta', 'visual', `${g.noImage.length} tarjetas de diseño sin imagen: ${g.noImage.slice(0, 10).join(', ')}`, gUrl);
+    } catch (e) { issue('baja', 'técnico', `No se pudo revisar la galería: ${e.message.split('\n')[0]}`, gUrl); }
+  }
+
   // Móvil
   const mobile = await browser.newContext({ ...devices['iPhone 13'], locale: 'es-ES' });
   const mp = await mobile.newPage();
